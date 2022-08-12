@@ -1,86 +1,86 @@
 [submodule "adjutant"]
 	path = adjutant
-	url = ../../openstack/adjutant.git
+	url = https://github.com/openstack/adjutant.git
 	branch = .
 [submodule "adjutant-ui"]
 	path = adjutant-ui
-	url = ../../openstack/adjutant-ui.git
+	url = https://github.com/openstack/adjutant-ui.git
 	branch = .
 [submodule "ansible-config_template"]
 	path = ansible-config_template
-	url = ../../openstack/ansible-config_template.git
+	url = https://github.com/openstack/ansible-config_template.git
 	branch = .
 [submodule "ansible-hardening"]
 	path = ansible-hardening
-	url = ../../openstack/ansible-hardening.git
+	url = https://github.com/openstack/ansible-hardening.git
 	branch = .
 [submodule "ansible-role-atos-hsm"]
 	path = ansible-role-atos-hsm
-	url = ../../openstack/ansible-role-atos-hsm.git
+	url = https://github.com/openstack/ansible-role-atos-hsm.git
 	branch = .
 [submodule "ansible-role-chrony"]
 	path = ansible-role-chrony
-	url = ../../openstack/ansible-role-chrony.git
+	url = https://github.com/openstack/ansible-role-chrony.git
 	branch = .
 [submodule "ansible-role-collect-logs"]
 	path = ansible-role-collect-logs
-	url = ../../openstack/ansible-role-collect-logs.git
+	url = https://github.com/openstack/ansible-role-collect-logs.git
 	branch = .
 [submodule "ansible-role-container-registry"]
 	path = ansible-role-container-registry
-	url = ../../openstack/ansible-role-container-registry.git
+	url = https://github.com/openstack/ansible-role-container-registry.git
 	branch = .
 [submodule "ansible-role-lunasa-hsm"]
 	path = ansible-role-lunasa-hsm
-	url = ../../openstack/ansible-role-lunasa-hsm.git
+	url = https://github.com/openstack/ansible-role-lunasa-hsm.git
 	branch = .
 [submodule "ansible-role-openstack-operations"]
 	path = ansible-role-openstack-operations
-	url = ../../openstack/ansible-role-openstack-operations.git
+	url = https://github.com/openstack/ansible-role-openstack-operations.git
 	branch = .
 [submodule "ansible-role-python_venv_build"]
 	path = ansible-role-python_venv_build
-	url = ../../openstack/ansible-role-python_venv_build.git
+	url = https://github.com/openstack/ansible-role-python_venv_build.git
 	branch = .
 [submodule "ansible-role-qdrouterd"]
 	path = ansible-role-qdrouterd
-	url = ../../openstack/ansible-role-qdrouterd.git
+	url = https://github.com/openstack/ansible-role-qdrouterd.git
 	branch = .
 [submodule "ansible-role-redhat-subscription"]
 	path = ansible-role-redhat-subscription
-	url = ../../openstack/ansible-role-redhat-subscription.git
+	url = https://github.com/openstack/ansible-role-redhat-subscription.git
 	branch = .
 [submodule "ansible-role-systemd_mount"]
 	path = ansible-role-systemd_mount
-	url = ../../openstack/ansible-role-systemd_mount.git
+	url = https://github.com/openstack/ansible-role-systemd_mount.git
 	branch = .
 [submodule "ansible-role-systemd_networkd"]
 	path = ansible-role-systemd_networkd
-	url = ../../openstack/ansible-role-systemd_networkd.git
+	url = https://github.com/openstack/ansible-role-systemd_networkd.git
 	branch = .
 [submodule "ansible-role-systemd_service"]
 	path = ansible-role-systemd_service
-	url = ../../openstack/ansible-role-systemd_service.git
+	url = https://github.com/openstack/ansible-role-systemd_service.git
 	branch = .
 [submodule "ansible-role-thales-hsm"]
 	path = ansible-role-thales-hsm
-	url = ../../openstack/ansible-role-thales-hsm.git
+	url = https://github.com/openstack/ansible-role-thales-hsm.git
 	branch = .
 [submodule "ansible-role-tripleo-modify-image"]
 	path = ansible-role-tripleo-modify-image
-	url = ../../openstack/ansible-role-tripleo-modify-image.git
+	url = https://github.com/openstack/ansible-role-tripleo-modify-image.git
 	branch = .
 [submodule "ansible-role-uwsgi"]
 	path = ansible-role-uwsgi
-	url = ../../openstack/ansible-role-uwsgi.git
+	url = https://github.com/openstack/ansible-role-uwsgi.git
 	branch = .
 [submodule "aodh"]
 	path = aodh
-	url = ../../openstack/aodh.git
+	url = https://github.com/openstack/aodh.git
 	branch = .
 [submodule "automaton"]
 	path = automaton
-	url = ../../openstack/automaton.git
+	url = https://github.com/openstack/automaton.git
 	branch = .
 [submodule "barbican"]
 	path = barbican
