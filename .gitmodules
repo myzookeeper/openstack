@@ -1,2744 +1,2744 @@
 [submodule "adjutant"]
 	path = adjutant
 	url = https://github.com/openstack/adjutant.git
-	branch = .
+	//branch = .
 [submodule "adjutant-ui"]
 	path = adjutant-ui
 	url = https://github.com/openstack/adjutant-ui.git
-	branch = .
+	//branch = .
 [submodule "ansible-config_template"]
 	path = ansible-config_template
 	url = https://github.com/openstack/ansible-config_template.git
-	branch = .
+	//branch = .
 [submodule "ansible-hardening"]
 	path = ansible-hardening
 	url = https://github.com/openstack/ansible-hardening.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-atos-hsm"]
 	path = ansible-role-atos-hsm
 	url = https://github.com/openstack/ansible-role-atos-hsm.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-chrony"]
 	path = ansible-role-chrony
 	url = https://github.com/openstack/ansible-role-chrony.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-collect-logs"]
 	path = ansible-role-collect-logs
 	url = https://github.com/openstack/ansible-role-collect-logs.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-container-registry"]
 	path = ansible-role-container-registry
 	url = https://github.com/openstack/ansible-role-container-registry.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-lunasa-hsm"]
 	path = ansible-role-lunasa-hsm
 	url = https://github.com/openstack/ansible-role-lunasa-hsm.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-openstack-operations"]
 	path = ansible-role-openstack-operations
 	url = https://github.com/openstack/ansible-role-openstack-operations.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-python_venv_build"]
 	path = ansible-role-python_venv_build
 	url = https://github.com/openstack/ansible-role-python_venv_build.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-qdrouterd"]
 	path = ansible-role-qdrouterd
 	url = https://github.com/openstack/ansible-role-qdrouterd.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-redhat-subscription"]
 	path = ansible-role-redhat-subscription
 	url = https://github.com/openstack/ansible-role-redhat-subscription.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-systemd_mount"]
 	path = ansible-role-systemd_mount
 	url = https://github.com/openstack/ansible-role-systemd_mount.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-systemd_networkd"]
 	path = ansible-role-systemd_networkd
 	url = https://github.com/openstack/ansible-role-systemd_networkd.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-systemd_service"]
 	path = ansible-role-systemd_service
 	url = https://github.com/openstack/ansible-role-systemd_service.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-thales-hsm"]
 	path = ansible-role-thales-hsm
 	url = https://github.com/openstack/ansible-role-thales-hsm.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-tripleo-modify-image"]
 	path = ansible-role-tripleo-modify-image
 	url = https://github.com/openstack/ansible-role-tripleo-modify-image.git
-	branch = .
+	//branch = .
 [submodule "ansible-role-uwsgi"]
 	path = ansible-role-uwsgi
 	url = https://github.com/openstack/ansible-role-uwsgi.git
-	branch = .
+	//branch = .
 [submodule "aodh"]
 	path = aodh
 	url = https://github.com/openstack/aodh.git
-	branch = .
+	//branch = .
 [submodule "automaton"]
 	path = automaton
 	url = https://github.com/openstack/automaton.git
-	branch = .
+	//branch = .
 [submodule "barbican"]
 	path = barbican
 	url = https://github.com/openstack/barbican.git
-	branch = .
+	//branch = .
 [submodule "barbican-specs"]
 	path = barbican-specs
 	url = https://github.com/openstack/barbican-specs.git
-	branch = .
+	//branch = .
 [submodule "barbican-tempest-plugin"]
 	path = barbican-tempest-plugin
 	url = https://github.com/openstack/barbican-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "barbican-ui"]
 	path = barbican-ui
 	url = https://github.com/openstack/barbican-ui.git
-	branch = .
+	//branch = .
 [submodule "bashate"]
 	path = bashate
 	url = https://github.com/openstack/bashate.git
-	branch = .
+	//branch = .
 [submodule "bifrost"]
 	path = bifrost
 	url = https://github.com/openstack/bifrost.git
-	branch = .
+	//branch = .
 [submodule "blazar"]
 	path = blazar
 	url = https://github.com/openstack/blazar.git
-	branch = .
+	//branch = .
 [submodule "blazar-dashboard"]
 	path = blazar-dashboard
 	url = https://github.com/openstack/blazar-dashboard.git
-	branch = .
+	//branch = .
 [submodule "blazar-nova"]
 	path = blazar-nova
 	url = https://github.com/openstack/blazar-nova.git
-	branch = .
+	//branch = .
 [submodule "blazar-specs"]
 	path = blazar-specs
 	url = https://github.com/openstack/blazar-specs.git
-	branch = .
+	//branch = .
 [submodule "blazar-tempest-plugin"]
 	path = blazar-tempest-plugin
 	url = https://github.com/openstack/blazar-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "castellan"]
 	path = castellan
 	url = https://github.com/openstack/castellan.git
-	branch = .
+	//branch = .
 [submodule "ceilometer"]
 	path = ceilometer
 	url = https://github.com/openstack/ceilometer.git
-	branch = .
+	//branch = .
 [submodule "ceilometermiddleware"]
 	path = ceilometermiddleware
 	url = https://github.com/openstack/ceilometermiddleware.git
-	branch = .
+	//branch = .
 [submodule "charm-aodh"]
 	path = charm-aodh
 	url = https://github.com/openstack/charm-aodh.git
-	branch = .
+	//branch = .
 [submodule "charm-barbican"]
 	path = charm-barbican
 	url = https://github.com/openstack/charm-barbican.git
-	branch = .
+	//branch = .
 [submodule "charm-barbican-softhsm"]
 	path = charm-barbican-softhsm
 	url = https://github.com/openstack/charm-barbican-softhsm.git
-	branch = .
+	//branch = .
 [submodule "charm-barbican-vault"]
 	path = charm-barbican-vault
 	url = https://github.com/openstack/charm-barbican-vault.git
-	branch = .
+	//branch = .
 [submodule "charm-ceilometer"]
 	path = charm-ceilometer
 	url = https://github.com/openstack/charm-ceilometer.git
-	branch = .
+	//branch = .
 [submodule "charm-ceilometer-agent"]
 	path = charm-ceilometer-agent
 	url = https://github.com/openstack/charm-ceilometer-agent.git
-	branch = .
+	//branch = .
 [submodule "charm-ceph-fs"]
 	path = charm-ceph-fs
 	url = https://github.com/openstack/charm-ceph-fs.git
-	branch = .
+	//branch = .
 [submodule "charm-ceph-mon"]
 	path = charm-ceph-mon
 	url = https://github.com/openstack/charm-ceph-mon.git
-	branch = .
+	//branch = .
 [submodule "charm-ceph-osd"]
 	path = charm-ceph-osd
 	url = https://github.com/openstack/charm-ceph-osd.git
-	branch = .
+	//branch = .
 [submodule "charm-ceph-proxy"]
 	path = charm-ceph-proxy
 	url = https://github.com/openstack/charm-ceph-proxy.git
-	branch = .
+	//branch = .
 [submodule "charm-ceph-radosgw"]
 	path = charm-ceph-radosgw
 	url = https://github.com/openstack/charm-ceph-radosgw.git
-	branch = .
+	//branch = .
 [submodule "charm-ceph-rbd-mirror"]
 	path = charm-ceph-rbd-mirror
 	url = https://github.com/openstack/charm-ceph-rbd-mirror.git
-	branch = .
+	//branch = .
 [submodule "charm-cinder"]
 	path = charm-cinder
 	url = https://github.com/openstack/charm-cinder.git
-	branch = .
+	//branch = .
 [submodule "charm-cinder-backup"]
 	path = charm-cinder-backup
 	url = https://github.com/openstack/charm-cinder-backup.git
-	branch = .
+	//branch = .
 [submodule "charm-cinder-backup-swift-proxy"]
 	path = charm-cinder-backup-swift-proxy
 	url = https://github.com/openstack/charm-cinder-backup-swift-proxy.git
-	branch = .
+	//branch = .
 [submodule "charm-cinder-ceph"]
 	path = charm-cinder-ceph
 	url = https://github.com/openstack/charm-cinder-ceph.git
-	branch = .
+	//branch = .
 [submodule "charm-cinder-purestorage"]
 	path = charm-cinder-purestorage
 	url = https://github.com/openstack/charm-cinder-purestorage.git
-	branch = .
+	//branch = .
 [submodule "charm-cloudkitty"]
 	path = charm-cloudkitty
 	url = https://github.com/openstack/charm-cloudkitty.git
-	branch = .
+	//branch = .
 [submodule "charm-deployment-guide"]
 	path = charm-deployment-guide
 	url = https://github.com/openstack/charm-deployment-guide.git
-	branch = .
+	//branch = .
 [submodule "charm-designate"]
 	path = charm-designate
 	url = https://github.com/openstack/charm-designate.git
-	branch = .
+	//branch = .
 [submodule "charm-designate-bind"]
 	path = charm-designate-bind
 	url = https://github.com/openstack/charm-designate-bind.git
-	branch = .
+	//branch = .
 [submodule "charm-glance"]
 	path = charm-glance
 	url = https://github.com/openstack/charm-glance.git
-	branch = .
+	//branch = .
 [submodule "charm-glance-simplestreams-sync"]
 	path = charm-glance-simplestreams-sync
 	url = https://github.com/openstack/charm-glance-simplestreams-sync.git
-	branch = .
+	//branch = .
 [submodule "charm-glusterfs"]
 	path = charm-glusterfs
 	url = https://github.com/openstack/charm-glusterfs.git
-	branch = .
+	//branch = .
 [submodule "charm-gnocchi"]
 	path = charm-gnocchi
 	url = https://github.com/openstack/charm-gnocchi.git
-	branch = .
+	//branch = .
 [submodule "charm-guide"]
 	path = charm-guide
 	url = https://github.com/openstack/charm-guide.git
-	branch = .
+	//branch = .
 [submodule "charm-hacluster"]
 	path = charm-hacluster
 	url = https://github.com/openstack/charm-hacluster.git
-	branch = .
+	//branch = .
 [submodule "charm-heat"]
 	path = charm-heat
 	url = https://github.com/openstack/charm-heat.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-barbican-secrets"]
 	path = charm-interface-barbican-secrets
 	url = https://github.com/openstack/charm-interface-barbican-secrets.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-bgp"]
 	path = charm-interface-bgp
 	url = https://github.com/openstack/charm-interface-bgp.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-bind-rndc"]
 	path = charm-interface-bind-rndc
 	url = https://github.com/openstack/charm-interface-bind-rndc.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-ceph-client"]
 	path = charm-interface-ceph-client
 	url = https://github.com/openstack/charm-interface-ceph-client.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-ceph-mds"]
 	path = charm-interface-ceph-mds
 	url = https://github.com/openstack/charm-interface-ceph-mds.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-ceph-rbd-mirror"]
 	path = charm-interface-ceph-rbd-mirror
 	url = https://github.com/openstack/charm-interface-ceph-rbd-mirror.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-cinder-backend"]
 	path = charm-interface-cinder-backend
 	url = https://github.com/openstack/charm-interface-cinder-backend.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-cinder-backup"]
 	path = charm-interface-cinder-backup
 	url = https://github.com/openstack/charm-interface-cinder-backup.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-dashboard-plugin"]
 	path = charm-interface-dashboard-plugin
 	url = https://github.com/openstack/charm-interface-dashboard-plugin.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-designate"]
 	path = charm-interface-designate
 	url = https://github.com/openstack/charm-interface-designate.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-gnocchi"]
 	path = charm-interface-gnocchi
 	url = https://github.com/openstack/charm-interface-gnocchi.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-hacluster"]
 	path = charm-interface-hacluster
 	url = https://github.com/openstack/charm-interface-hacluster.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-keystone"]
 	path = charm-interface-keystone
 	url = https://github.com/openstack/charm-interface-keystone.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-keystone-admin"]
 	path = charm-interface-keystone-admin
 	url = https://github.com/openstack/charm-interface-keystone-admin.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-keystone-credentials"]
 	path = charm-interface-keystone-credentials
 	url = https://github.com/openstack/charm-interface-keystone-credentials.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-keystone-domain-backend"]
 	path = charm-interface-keystone-domain-backend
 	url = https://github.com/openstack/charm-interface-keystone-domain-backend.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-keystone-fid-service-provider"]
 	path = charm-interface-keystone-fid-service-provider
 	url = https://github.com/openstack/charm-interface-keystone-fid-service-provider.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-keystone-notifications"]
 	path = charm-interface-keystone-notifications
 	url = https://github.com/openstack/charm-interface-keystone-notifications.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-manila-plugin"]
 	path = charm-interface-manila-plugin
 	url = https://github.com/openstack/charm-interface-manila-plugin.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-mysql-innodb-cluster"]
 	path = charm-interface-mysql-innodb-cluster
 	url = https://github.com/openstack/charm-interface-mysql-innodb-cluster.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-mysql-router"]
 	path = charm-interface-mysql-router
 	url = https://github.com/openstack/charm-interface-mysql-router.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-mysql-shared"]
 	path = charm-interface-mysql-shared
 	url = https://github.com/openstack/charm-interface-mysql-shared.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-neutron-load-balancer"]
 	path = charm-interface-neutron-load-balancer
 	url = https://github.com/openstack/charm-interface-neutron-load-balancer.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-neutron-plugin"]
 	path = charm-interface-neutron-plugin
 	url = https://github.com/openstack/charm-interface-neutron-plugin.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-neutron-plugin-api-subordinate"]
 	path = charm-interface-neutron-plugin-api-subordinate
 	url = https://github.com/openstack/charm-interface-neutron-plugin-api-subordinate.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-nova-cell"]
 	path = charm-interface-nova-cell
 	url = https://github.com/openstack/charm-interface-nova-cell.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-nova-compute"]
 	path = charm-interface-nova-compute
 	url = https://github.com/openstack/charm-interface-nova-compute.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-odl-controller-api"]
 	path = charm-interface-odl-controller-api
 	url = https://github.com/openstack/charm-interface-odl-controller-api.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-openstack-ha"]
 	path = charm-interface-openstack-ha
 	url = https://github.com/openstack/charm-interface-openstack-ha.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-ovsdb-manager"]
 	path = charm-interface-ovsdb-manager
 	url = https://github.com/openstack/charm-interface-ovsdb-manager.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-pacemaker-remote"]
 	path = charm-interface-pacemaker-remote
 	url = https://github.com/openstack/charm-interface-pacemaker-remote.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-placement"]
 	path = charm-interface-placement
 	url = https://github.com/openstack/charm-interface-placement.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-rabbitmq"]
 	path = charm-interface-rabbitmq
 	url = https://github.com/openstack/charm-interface-rabbitmq.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-service-control"]
 	path = charm-interface-service-control
 	url = https://github.com/openstack/charm-interface-service-control.git
-	branch = .
+	//branch = .
 [submodule "charm-interface-websso-fid-service-provider"]
 	path = charm-interface-websso-fid-service-provider
 	url = https://github.com/openstack/charm-interface-websso-fid-service-provider.git
-	branch = .
+	//branch = .
 [submodule "charm-ironic"]
 	path = charm-ironic
 	url = https://github.com/openstack/charm-ironic.git
-	branch = .
+	//branch = .
 [submodule "charm-keystone"]
 	path = charm-keystone
 	url = https://github.com/openstack/charm-keystone.git
-	branch = .
+	//branch = .
 [submodule "charm-keystone-ldap"]
 	path = charm-keystone-ldap
 	url = https://github.com/openstack/charm-keystone-ldap.git
-	branch = .
+	//branch = .
 [submodule "charm-keystone-saml-mellon"]
 	path = charm-keystone-saml-mellon
 	url = https://github.com/openstack/charm-keystone-saml-mellon.git
-	branch = .
+	//branch = .
 [submodule "charm-layer-ceph"]
 	path = charm-layer-ceph
 	url = https://github.com/openstack/charm-layer-ceph.git
-	branch = .
+	//branch = .
 [submodule "charm-layer-ceph-base"]
 	path = charm-layer-ceph-base
 	url = https://github.com/openstack/charm-layer-ceph-base.git
-	branch = .
+	//branch = .
 [submodule "charm-layer-openstack"]
 	path = charm-layer-openstack
 	url = https://github.com/openstack/charm-layer-openstack.git
-	branch = .
+	//branch = .
 [submodule "charm-layer-openstack-api"]
 	path = charm-layer-openstack-api
 	url = https://github.com/openstack/charm-layer-openstack-api.git
-	branch = .
+	//branch = .
 [submodule "charm-layer-openstack-principle"]
 	path = charm-layer-openstack-principle
 	url = https://github.com/openstack/charm-layer-openstack-principle.git
-	branch = .
+	//branch = .
 [submodule "charm-manila"]
 	path = charm-manila
 	url = https://github.com/openstack/charm-manila.git
-	branch = .
+	//branch = .
 [submodule "charm-manila-ganesha"]
 	path = charm-manila-ganesha
 	url = https://github.com/openstack/charm-manila-ganesha.git
-	branch = .
+	//branch = .
 [submodule "charm-manila-generic"]
 	path = charm-manila-generic
 	url = https://github.com/openstack/charm-manila-generic.git
-	branch = .
+	//branch = .
 [submodule "charm-manila-glusterfs"]
 	path = charm-manila-glusterfs
 	url = https://github.com/openstack/charm-manila-glusterfs.git
-	branch = .
+	//branch = .
 [submodule "charm-masakari"]
 	path = charm-masakari
 	url = https://github.com/openstack/charm-masakari.git
-	branch = .
+	//branch = .
 [submodule "charm-masakari-monitors"]
 	path = charm-masakari-monitors
 	url = https://github.com/openstack/charm-masakari-monitors.git
-	branch = .
+	//branch = .
 [submodule "charm-mistral"]
 	path = charm-mistral
 	url = https://github.com/openstack/charm-mistral.git
-	branch = .
+	//branch = .
 [submodule "charm-murano"]
 	path = charm-murano
 	url = https://github.com/openstack/charm-murano.git
-	branch = .
+	//branch = .
 [submodule "charm-mysql-innodb-cluster"]
 	path = charm-mysql-innodb-cluster
 	url = https://github.com/openstack/charm-mysql-innodb-cluster.git
-	branch = .
+	//branch = .
 [submodule "charm-mysql-router"]
 	path = charm-mysql-router
 	url = https://github.com/openstack/charm-mysql-router.git
-	branch = .
+	//branch = .
 [submodule "charm-neutron-api"]
 	path = charm-neutron-api
 	url = https://github.com/openstack/charm-neutron-api.git
-	branch = .
+	//branch = .
 [submodule "charm-neutron-api-odl"]
 	path = charm-neutron-api-odl
 	url = https://github.com/openstack/charm-neutron-api-odl.git
-	branch = .
+	//branch = .
 [submodule "charm-neutron-api-plugin-ovn"]
 	path = charm-neutron-api-plugin-ovn
 	url = https://github.com/openstack/charm-neutron-api-plugin-ovn.git
-	branch = .
+	//branch = .
 [submodule "charm-neutron-dynamic-routing"]
 	path = charm-neutron-dynamic-routing
 	url = https://github.com/openstack/charm-neutron-dynamic-routing.git
-	branch = .
+	//branch = .
 [submodule "charm-neutron-gateway"]
 	path = charm-neutron-gateway
 	url = https://github.com/openstack/charm-neutron-gateway.git
-	branch = .
+	//branch = .
 [submodule "charm-neutron-openvswitch"]
 	path = charm-neutron-openvswitch
 	url = https://github.com/openstack/charm-neutron-openvswitch.git
-	branch = .
+	//branch = .
 [submodule "charm-nova-cell-controller"]
 	path = charm-nova-cell-controller
 	url = https://github.com/openstack/charm-nova-cell-controller.git
-	branch = .
+	//branch = .
 [submodule "charm-nova-cloud-controller"]
 	path = charm-nova-cloud-controller
 	url = https://github.com/openstack/charm-nova-cloud-controller.git
-	branch = .
+	//branch = .
 [submodule "charm-nova-compute"]
 	path = charm-nova-compute
 	url = https://github.com/openstack/charm-nova-compute.git
-	branch = .
+	//branch = .
 [submodule "charm-nova-compute-proxy"]
 	path = charm-nova-compute-proxy
 	url = https://github.com/openstack/charm-nova-compute-proxy.git
-	branch = .
+	//branch = .
 [submodule "charm-nova-lxd"]
 	path = charm-nova-lxd
 	url = https://github.com/openstack/charm-nova-lxd.git
-	branch = .
+	//branch = .
 [submodule "charm-octavia"]
 	path = charm-octavia
 	url = https://github.com/openstack/charm-octavia.git
-	branch = .
+	//branch = .
 [submodule "charm-octavia-dashboard"]
 	path = charm-octavia-dashboard
 	url = https://github.com/openstack/charm-octavia-dashboard.git
-	branch = .
+	//branch = .
 [submodule "charm-octavia-diskimage-retrofit"]
 	path = charm-octavia-diskimage-retrofit
 	url = https://github.com/openstack/charm-octavia-diskimage-retrofit.git
-	branch = .
+	//branch = .
 [submodule "charm-odl-controller"]
 	path = charm-odl-controller
 	url = https://github.com/openstack/charm-odl-controller.git
-	branch = .
+	//branch = .
 [submodule "charm-openstack-dashboard"]
 	path = charm-openstack-dashboard
 	url = https://github.com/openstack/charm-openstack-dashboard.git
-	branch = .
+	//branch = .
 [submodule "charm-openvswitch-odl"]
 	path = charm-openvswitch-odl
 	url = https://github.com/openstack/charm-openvswitch-odl.git
-	branch = .
+	//branch = .
 [submodule "charm-pacemaker-remote"]
 	path = charm-pacemaker-remote
 	url = https://github.com/openstack/charm-pacemaker-remote.git
-	branch = .
+	//branch = .
 [submodule "charm-panko"]
 	path = charm-panko
 	url = https://github.com/openstack/charm-panko.git
-	branch = .
+	//branch = .
 [submodule "charm-percona-cluster"]
 	path = charm-percona-cluster
 	url = https://github.com/openstack/charm-percona-cluster.git
-	branch = .
+	//branch = .
 [submodule "charm-placement"]
 	path = charm-placement
 	url = https://github.com/openstack/charm-placement.git
-	branch = .
+	//branch = .
 [submodule "charm-rabbitmq-server"]
 	path = charm-rabbitmq-server
 	url = https://github.com/openstack/charm-rabbitmq-server.git
-	branch = .
+	//branch = .
 [submodule "charm-specs"]
 	path = charm-specs
 	url = https://github.com/openstack/charm-specs.git
-	branch = .
+	//branch = .
 [submodule "charm-swift-proxy"]
 	path = charm-swift-proxy
 	url = https://github.com/openstack/charm-swift-proxy.git
-	branch = .
+	//branch = .
 [submodule "charm-swift-storage"]
 	path = charm-swift-storage
 	url = https://github.com/openstack/charm-swift-storage.git
-	branch = .
+	//branch = .
 [submodule "charm-tempest"]
 	path = charm-tempest
 	url = https://github.com/openstack/charm-tempest.git
-	branch = .
+	//branch = .
 [submodule "charm-trilio-data-mover"]
 	path = charm-trilio-data-mover
 	url = https://github.com/openstack/charm-trilio-data-mover.git
-	branch = .
+	//branch = .
 [submodule "charm-trilio-dm-api"]
 	path = charm-trilio-dm-api
 	url = https://github.com/openstack/charm-trilio-dm-api.git
-	branch = .
+	//branch = .
 [submodule "charm-trilio-horizon-plugin"]
 	path = charm-trilio-horizon-plugin
 	url = https://github.com/openstack/charm-trilio-horizon-plugin.git
-	branch = .
+	//branch = .
 [submodule "charm-trilio-wlm"]
 	path = charm-trilio-wlm
 	url = https://github.com/openstack/charm-trilio-wlm.git
-	branch = .
+	//branch = .
 [submodule "charm-trove"]
 	path = charm-trove
 	url = https://github.com/openstack/charm-trove.git
-	branch = .
+	//branch = .
 [submodule "charm-vault"]
 	path = charm-vault
 	url = https://github.com/openstack/charm-vault.git
-	branch = .
+	//branch = .
 [submodule "charm-watcher"]
 	path = charm-watcher
 	url = https://github.com/openstack/charm-watcher.git
-	branch = .
+	//branch = .
 [submodule "charm-watcher-dashboard"]
 	path = charm-watcher-dashboard
 	url = https://github.com/openstack/charm-watcher-dashboard.git
-	branch = .
+	//branch = .
 [submodule "charms.ceph"]
 	path = charms.ceph
 	url = https://github.com/openstack/charms.ceph.git
-	branch = .
+	//branch = .
 [submodule "charms.openstack"]
 	path = charms.openstack
 	url = https://github.com/openstack/charms.openstack.git
-	branch = .
+	//branch = .
 [submodule "cinder"]
 	path = cinder
 	url = https://github.com/openstack/cinder.git
-	branch = .
+	//branch = .
 [submodule "cinder-specs"]
 	path = cinder-specs
 	url = https://github.com/openstack/cinder-specs.git
-	branch = .
+	//branch = .
 [submodule "cinder-tempest-plugin"]
 	path = cinder-tempest-plugin
 	url = https://github.com/openstack/cinder-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "cinderlib"]
 	path = cinderlib
 	url = https://github.com/openstack/cinderlib.git
-	branch = .
+	//branch = .
 [submodule "cliff"]
 	path = cliff
 	url = https://github.com/openstack/cliff.git
-	branch = .
+	//branch = .
 [submodule "cloudkitty"]
 	path = cloudkitty
 	url = https://github.com/openstack/cloudkitty.git
-	branch = .
+	//branch = .
 [submodule "cloudkitty-dashboard"]
 	path = cloudkitty-dashboard
 	url = https://github.com/openstack/cloudkitty-dashboard.git
-	branch = .
+	//branch = .
 [submodule "cloudkitty-specs"]
 	path = cloudkitty-specs
 	url = https://github.com/openstack/cloudkitty-specs.git
-	branch = .
+	//branch = .
 [submodule "cloudkitty-tempest-plugin"]
 	path = cloudkitty-tempest-plugin
 	url = https://github.com/openstack/cloudkitty-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "compute-hyperv"]
 	path = compute-hyperv
 	url = https://github.com/openstack/compute-hyperv.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-application-catalog"]
 	path = cookbook-openstack-application-catalog
 	url = https://github.com/openstack/cookbook-openstack-application-catalog.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-bare-metal"]
 	path = cookbook-openstack-bare-metal
 	url = https://github.com/openstack/cookbook-openstack-bare-metal.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-block-storage"]
 	path = cookbook-openstack-block-storage
 	url = https://github.com/openstack/cookbook-openstack-block-storage.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-client"]
 	path = cookbook-openstack-client
 	url = https://github.com/openstack/cookbook-openstack-client.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-common"]
 	path = cookbook-openstack-common
 	url = https://github.com/openstack/cookbook-openstack-common.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-compute"]
 	path = cookbook-openstack-compute
 	url = https://github.com/openstack/cookbook-openstack-compute.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-dashboard"]
 	path = cookbook-openstack-dashboard
 	url = https://github.com/openstack/cookbook-openstack-dashboard.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-dns"]
 	path = cookbook-openstack-dns
 	url = https://github.com/openstack/cookbook-openstack-dns.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-identity"]
 	path = cookbook-openstack-identity
 	url = https://github.com/openstack/cookbook-openstack-identity.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-image"]
 	path = cookbook-openstack-image
 	url = https://github.com/openstack/cookbook-openstack-image.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-integration-test"]
 	path = cookbook-openstack-integration-test
 	url = https://github.com/openstack/cookbook-openstack-integration-test.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-network"]
 	path = cookbook-openstack-network
 	url = https://github.com/openstack/cookbook-openstack-network.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-ops-database"]
 	path = cookbook-openstack-ops-database
 	url = https://github.com/openstack/cookbook-openstack-ops-database.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-ops-messaging"]
 	path = cookbook-openstack-ops-messaging
 	url = https://github.com/openstack/cookbook-openstack-ops-messaging.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-orchestration"]
 	path = cookbook-openstack-orchestration
 	url = https://github.com/openstack/cookbook-openstack-orchestration.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstack-telemetry"]
 	path = cookbook-openstack-telemetry
 	url = https://github.com/openstack/cookbook-openstack-telemetry.git
-	branch = .
+	//branch = .
 [submodule "cookbook-openstackclient"]
 	path = cookbook-openstackclient
 	url = https://github.com/openstack/cookbook-openstackclient.git
-	branch = .
+	//branch = .
 [submodule "cookiecutter"]
 	path = cookiecutter
 	url = https://github.com/openstack/cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "coverage2sql"]
 	path = coverage2sql
 	url = https://github.com/openstack/coverage2sql.git
-	branch = .
+	//branch = .
 [submodule "cyborg"]
 	path = cyborg
 	url = https://github.com/openstack/cyborg.git
-	branch = .
+	//branch = .
 [submodule "cyborg-specs"]
 	path = cyborg-specs
 	url = https://github.com/openstack/cyborg-specs.git
-	branch = .
+	//branch = .
 [submodule "cyborg-tempest-plugin"]
 	path = cyborg-tempest-plugin
 	url = https://github.com/openstack/cyborg-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "debtcollector"]
 	path = debtcollector
 	url = https://github.com/openstack/debtcollector.git
-	branch = .
+	//branch = .
 [submodule "designate"]
 	path = designate
 	url = https://github.com/openstack/designate.git
-	branch = .
+	//branch = .
 [submodule "designate-dashboard"]
 	path = designate-dashboard
 	url = https://github.com/openstack/designate-dashboard.git
-	branch = .
+	//branch = .
 [submodule "designate-specs"]
 	path = designate-specs
 	url = https://github.com/openstack/designate-specs.git
-	branch = .
+	//branch = .
 [submodule "designate-tempest-plugin"]
 	path = designate-tempest-plugin
 	url = https://github.com/openstack/designate-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "devstack"]
 	path = devstack
 	url = https://github.com/openstack/devstack.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-amqp1"]
 	path = devstack-plugin-amqp1
 	url = https://github.com/openstack/devstack-plugin-amqp1.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-ceph"]
 	path = devstack-plugin-ceph
 	url = https://github.com/openstack/devstack-plugin-ceph.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-container"]
 	path = devstack-plugin-container
 	url = https://github.com/openstack/devstack-plugin-container.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-cookiecutter"]
 	path = devstack-plugin-cookiecutter
 	url = https://github.com/openstack/devstack-plugin-cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-kafka"]
 	path = devstack-plugin-kafka
 	url = https://github.com/openstack/devstack-plugin-kafka.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-nfs"]
 	path = devstack-plugin-nfs
 	url = https://github.com/openstack/devstack-plugin-nfs.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-open-cas"]
 	path = devstack-plugin-open-cas
 	url = https://github.com/openstack/devstack-plugin-open-cas.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-pika"]
 	path = devstack-plugin-pika
 	url = https://github.com/openstack/devstack-plugin-pika.git
-	branch = .
+	//branch = .
 [submodule "devstack-plugin-zmq"]
 	path = devstack-plugin-zmq
 	url = https://github.com/openstack/devstack-plugin-zmq.git
-	branch = .
+	//branch = .
 [submodule "devstack-tools"]
 	path = devstack-tools
 	url = https://github.com/openstack/devstack-tools.git
-	branch = .
+	//branch = .
 [submodule "devstack-vagrant"]
 	path = devstack-vagrant
 	url = https://github.com/openstack/devstack-vagrant.git
-	branch = .
+	//branch = .
 [submodule "dib-utils"]
 	path = dib-utils
 	url = https://github.com/openstack/dib-utils.git
-	branch = .
+	//branch = .
 [submodule "django_openstack_auth"]
 	path = django_openstack_auth
 	url = https://github.com/openstack/django_openstack_auth.git
-	branch = .
+	//branch = .
 [submodule "ec2-api"]
 	path = ec2-api
 	url = https://github.com/openstack/ec2-api.git
-	branch = .
+	//branch = .
 [submodule "ec2api-tempest-plugin"]
 	path = ec2api-tempest-plugin
 	url = https://github.com/openstack/ec2api-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "eslint-config-openstack"]
 	path = eslint-config-openstack
 	url = https://github.com/openstack/eslint-config-openstack.git
-	branch = .
+	//branch = .
 [submodule "freezer"]
 	path = freezer
 	url = https://github.com/openstack/freezer.git
-	branch = .
+	//branch = .
 [submodule "freezer-api"]
 	path = freezer-api
 	url = https://github.com/openstack/freezer-api.git
-	branch = .
+	//branch = .
 [submodule "freezer-dr"]
 	path = freezer-dr
 	url = https://github.com/openstack/freezer-dr.git
-	branch = .
+	//branch = .
 [submodule "freezer-specs"]
 	path = freezer-specs
 	url = https://github.com/openstack/freezer-specs.git
-	branch = .
+	//branch = .
 [submodule "freezer-tempest-plugin"]
 	path = freezer-tempest-plugin
 	url = https://github.com/openstack/freezer-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "freezer-web-ui"]
 	path = freezer-web-ui
 	url = https://github.com/openstack/freezer-web-ui.git
-	branch = .
+	//branch = .
 [submodule "futurist"]
 	path = futurist
 	url = https://github.com/openstack/futurist.git
-	branch = .
+	//branch = .
 [submodule "glance"]
 	path = glance
 	url = https://github.com/openstack/glance.git
-	branch = .
+	//branch = .
 [submodule "glance-specs"]
 	path = glance-specs
 	url = https://github.com/openstack/glance-specs.git
-	branch = .
+	//branch = .
 [submodule "glance_store"]
 	path = glance_store
 	url = https://github.com/openstack/glance_store.git
-	branch = .
+	//branch = .
 [submodule "grenade"]
 	path = grenade
 	url = https://github.com/openstack/grenade.git
-	branch = .
+	//branch = .
 [submodule "hacking"]
 	path = hacking
 	url = https://github.com/openstack/hacking.git
-	branch = .
+	//branch = .
 [submodule "heat"]
 	path = heat
 	url = https://github.com/openstack/heat.git
-	branch = .
+	//branch = .
 [submodule "heat-agents"]
 	path = heat-agents
 	url = https://github.com/openstack/heat-agents.git
-	branch = .
+	//branch = .
 [submodule "heat-cfnclient"]
 	path = heat-cfnclient
 	url = https://github.com/openstack/heat-cfnclient.git
-	branch = .
+	//branch = .
 [submodule "heat-cfntools"]
 	path = heat-cfntools
 	url = https://github.com/openstack/heat-cfntools.git
-	branch = .
+	//branch = .
 [submodule "heat-dashboard"]
 	path = heat-dashboard
 	url = https://github.com/openstack/heat-dashboard.git
-	branch = .
+	//branch = .
 [submodule "heat-specs"]
 	path = heat-specs
 	url = https://github.com/openstack/heat-specs.git
-	branch = .
+	//branch = .
 [submodule "heat-tempest-plugin"]
 	path = heat-tempest-plugin
 	url = https://github.com/openstack/heat-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "heat-templates"]
 	path = heat-templates
 	url = https://github.com/openstack/heat-templates.git
-	branch = .
+	//branch = .
 [submodule "heat-translator"]
 	path = heat-translator
 	url = https://github.com/openstack/heat-translator.git
-	branch = .
+	//branch = .
 [submodule "horizon"]
 	path = horizon
 	url = https://github.com/openstack/horizon.git
-	branch = .
+	//branch = .
 [submodule "instack-undercloud"]
 	path = instack-undercloud
 	url = https://github.com/openstack/instack-undercloud.git
-	branch = .
+	//branch = .
 [submodule "ironic"]
 	path = ironic
 	url = https://github.com/openstack/ironic.git
-	branch = .
+	//branch = .
 [submodule "ironic-inspector"]
 	path = ironic-inspector
 	url = https://github.com/openstack/ironic-inspector.git
-	branch = .
+	//branch = .
 [submodule "ironic-inspector-specs"]
 	path = ironic-inspector-specs
 	url = https://github.com/openstack/ironic-inspector-specs.git
-	branch = .
+	//branch = .
 [submodule "ironic-lib"]
 	path = ironic-lib
 	url = https://github.com/openstack/ironic-lib.git
-	branch = .
+	//branch = .
 [submodule "ironic-prometheus-exporter"]
 	path = ironic-prometheus-exporter
 	url = https://github.com/openstack/ironic-prometheus-exporter.git
-	branch = .
+	//branch = .
 [submodule "ironic-python-agent"]
 	path = ironic-python-agent
 	url = https://github.com/openstack/ironic-python-agent.git
-	branch = .
+	//branch = .
 [submodule "ironic-python-agent-builder"]
 	path = ironic-python-agent-builder
 	url = https://github.com/openstack/ironic-python-agent-builder.git
-	branch = .
+	//branch = .
 [submodule "ironic-specs"]
 	path = ironic-specs
 	url = https://github.com/openstack/ironic-specs.git
-	branch = .
+	//branch = .
 [submodule "ironic-tempest-plugin"]
 	path = ironic-tempest-plugin
 	url = https://github.com/openstack/ironic-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "ironic-ui"]
 	path = ironic-ui
 	url = https://github.com/openstack/ironic-ui.git
-	branch = .
+	//branch = .
 [submodule "js-openstack-lib"]
 	path = js-openstack-lib
 	url = https://github.com/openstack/js-openstack-lib.git
-	branch = .
+	//branch = .
 [submodule "karbor"]
 	path = karbor
 	url = https://github.com/openstack/karbor.git
-	branch = .
+	//branch = .
 [submodule "karbor-dashboard"]
 	path = karbor-dashboard
 	url = https://github.com/openstack/karbor-dashboard.git
-	branch = .
+	//branch = .
 [submodule "karma-subunit-reporter"]
 	path = karma-subunit-reporter
 	url = https://github.com/openstack/karma-subunit-reporter.git
-	branch = .
+	//branch = .
 [submodule "kayobe"]
 	path = kayobe
 	url = https://github.com/openstack/kayobe.git
-	branch = .
+	//branch = .
 [submodule "kayobe-config"]
 	path = kayobe-config
 	url = https://github.com/openstack/kayobe-config.git
-	branch = .
+	//branch = .
 [submodule "kayobe-config-dev"]
 	path = kayobe-config-dev
 	url = https://github.com/openstack/kayobe-config-dev.git
-	branch = .
+	//branch = .
 [submodule "keystone"]
 	path = keystone
 	url = https://github.com/openstack/keystone.git
-	branch = .
+	//branch = .
 [submodule "keystone-specs"]
 	path = keystone-specs
 	url = https://github.com/openstack/keystone-specs.git
-	branch = .
+	//branch = .
 [submodule "keystone-tempest-plugin"]
 	path = keystone-tempest-plugin
 	url = https://github.com/openstack/keystone-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "keystoneauth"]
 	path = keystoneauth
 	url = https://github.com/openstack/keystoneauth.git
-	branch = .
+	//branch = .
 [submodule "keystonemiddleware"]
 	path = keystonemiddleware
 	url = https://github.com/openstack/keystonemiddleware.git
-	branch = .
+	//branch = .
 [submodule "kolla"]
 	path = kolla
 	url = https://github.com/openstack/kolla.git
-	branch = .
+	//branch = .
 [submodule "kolla-ansible"]
 	path = kolla-ansible
 	url = https://github.com/openstack/kolla-ansible.git
-	branch = .
+	//branch = .
 [submodule "kolla-cli"]
 	path = kolla-cli
 	url = https://github.com/openstack/kolla-cli.git
-	branch = .
+	//branch = .
 [submodule "kuryr"]
 	path = kuryr
 	url = https://github.com/openstack/kuryr.git
-	branch = .
+	//branch = .
 [submodule "kuryr-kubernetes"]
 	path = kuryr-kubernetes
 	url = https://github.com/openstack/kuryr-kubernetes.git
-	branch = .
+	//branch = .
 [submodule "kuryr-libnetwork"]
 	path = kuryr-libnetwork
 	url = https://github.com/openstack/kuryr-libnetwork.git
-	branch = .
+	//branch = .
 [submodule "kuryr-tempest-plugin"]
 	path = kuryr-tempest-plugin
 	url = https://github.com/openstack/kuryr-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "ldappool"]
 	path = ldappool
 	url = https://github.com/openstack/ldappool.git
-	branch = .
+	//branch = .
 [submodule "liberasurecode"]
 	path = liberasurecode
 	url = https://github.com/openstack/liberasurecode.git
-	branch = .
+	//branch = .
 [submodule "loci"]
 	path = loci
 	url = https://github.com/openstack/loci.git
-	branch = .
+	//branch = .
 [submodule "magnum"]
 	path = magnum
 	url = https://github.com/openstack/magnum.git
-	branch = .
+	//branch = .
 [submodule "magnum-specs"]
 	path = magnum-specs
 	url = https://github.com/openstack/magnum-specs.git
-	branch = .
+	//branch = .
 [submodule "magnum-tempest-plugin"]
 	path = magnum-tempest-plugin
 	url = https://github.com/openstack/magnum-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "magnum-ui"]
 	path = magnum-ui
 	url = https://github.com/openstack/magnum-ui.git
-	branch = .
+	//branch = .
 [submodule "manila"]
 	path = manila
 	url = https://github.com/openstack/manila.git
-	branch = .
+	//branch = .
 [submodule "manila-image-elements"]
 	path = manila-image-elements
 	url = https://github.com/openstack/manila-image-elements.git
-	branch = .
+	//branch = .
 [submodule "manila-specs"]
 	path = manila-specs
 	url = https://github.com/openstack/manila-specs.git
-	branch = .
+	//branch = .
 [submodule "manila-tempest-plugin"]
 	path = manila-tempest-plugin
 	url = https://github.com/openstack/manila-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "manila-test-image"]
 	path = manila-test-image
 	url = https://github.com/openstack/manila-test-image.git
-	branch = .
+	//branch = .
 [submodule "manila-ui"]
 	path = manila-ui
 	url = https://github.com/openstack/manila-ui.git
-	branch = .
+	//branch = .
 [submodule "masakari"]
 	path = masakari
 	url = https://github.com/openstack/masakari.git
-	branch = .
+	//branch = .
 [submodule "masakari-dashboard"]
 	path = masakari-dashboard
 	url = https://github.com/openstack/masakari-dashboard.git
-	branch = .
+	//branch = .
 [submodule "masakari-monitors"]
 	path = masakari-monitors
 	url = https://github.com/openstack/masakari-monitors.git
-	branch = .
+	//branch = .
 [submodule "masakari-specs"]
 	path = masakari-specs
 	url = https://github.com/openstack/masakari-specs.git
-	branch = .
+	//branch = .
 [submodule "metalsmith"]
 	path = metalsmith
 	url = https://github.com/openstack/metalsmith.git
-	branch = .
+	//branch = .
 [submodule "microversion-parse"]
 	path = microversion-parse
 	url = https://github.com/openstack/microversion-parse.git
-	branch = .
+	//branch = .
 [submodule "mistral"]
 	path = mistral
 	url = https://github.com/openstack/mistral.git
-	branch = .
+	//branch = .
 [submodule "mistral-dashboard"]
 	path = mistral-dashboard
 	url = https://github.com/openstack/mistral-dashboard.git
-	branch = .
+	//branch = .
 [submodule "mistral-extra"]
 	path = mistral-extra
 	url = https://github.com/openstack/mistral-extra.git
-	branch = .
+	//branch = .
 [submodule "mistral-lib"]
 	path = mistral-lib
 	url = https://github.com/openstack/mistral-lib.git
-	branch = .
+	//branch = .
 [submodule "mistral-specs"]
 	path = mistral-specs
 	url = https://github.com/openstack/mistral-specs.git
-	branch = .
+	//branch = .
 [submodule "mistral-tempest-plugin"]
 	path = mistral-tempest-plugin
 	url = https://github.com/openstack/mistral-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "molteniron"]
 	path = molteniron
 	url = https://github.com/openstack/molteniron.git
-	branch = .
+	//branch = .
 [submodule "monasca-agent"]
 	path = monasca-agent
 	url = https://github.com/openstack/monasca-agent.git
-	branch = .
+	//branch = .
 [submodule "monasca-analytics"]
 	path = monasca-analytics
 	url = https://github.com/openstack/monasca-analytics.git
-	branch = .
+	//branch = .
 [submodule "monasca-api"]
 	path = monasca-api
 	url = https://github.com/openstack/monasca-api.git
-	branch = .
+	//branch = .
 [submodule "monasca-ceilometer"]
 	path = monasca-ceilometer
 	url = https://github.com/openstack/monasca-ceilometer.git
-	branch = .
+	//branch = .
 [submodule "monasca-common"]
 	path = monasca-common
 	url = https://github.com/openstack/monasca-common.git
-	branch = .
+	//branch = .
 [submodule "monasca-events-api"]
 	path = monasca-events-api
 	url = https://github.com/openstack/monasca-events-api.git
-	branch = .
+	//branch = .
 [submodule "monasca-grafana-datasource"]
 	path = monasca-grafana-datasource
 	url = https://github.com/openstack/monasca-grafana-datasource.git
-	branch = .
+	//branch = .
 [submodule "monasca-kibana-plugin"]
 	path = monasca-kibana-plugin
 	url = https://github.com/openstack/monasca-kibana-plugin.git
-	branch = .
+	//branch = .
 [submodule "monasca-log-api"]
 	path = monasca-log-api
 	url = https://github.com/openstack/monasca-log-api.git
-	branch = .
+	//branch = .
 [submodule "monasca-notification"]
 	path = monasca-notification
 	url = https://github.com/openstack/monasca-notification.git
-	branch = .
+	//branch = .
 [submodule "monasca-persister"]
 	path = monasca-persister
 	url = https://github.com/openstack/monasca-persister.git
-	branch = .
+	//branch = .
 [submodule "monasca-specs"]
 	path = monasca-specs
 	url = https://github.com/openstack/monasca-specs.git
-	branch = .
+	//branch = .
 [submodule "monasca-statsd"]
 	path = monasca-statsd
 	url = https://github.com/openstack/monasca-statsd.git
-	branch = .
+	//branch = .
 [submodule "monasca-tempest-plugin"]
 	path = monasca-tempest-plugin
 	url = https://github.com/openstack/monasca-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "monasca-thresh"]
 	path = monasca-thresh
 	url = https://github.com/openstack/monasca-thresh.git
-	branch = .
+	//branch = .
 [submodule "monasca-transform"]
 	path = monasca-transform
 	url = https://github.com/openstack/monasca-transform.git
-	branch = .
+	//branch = .
 [submodule "monasca-ui"]
 	path = monasca-ui
 	url = https://github.com/openstack/monasca-ui.git
-	branch = .
+	//branch = .
 [submodule "mox3"]
 	path = mox3
 	url = https://github.com/openstack/mox3.git
-	branch = .
+	//branch = .
 [submodule "murano"]
 	path = murano
 	url = https://github.com/openstack/murano.git
-	branch = .
+	//branch = .
 [submodule "murano-agent"]
 	path = murano-agent
 	url = https://github.com/openstack/murano-agent.git
-	branch = .
+	//branch = .
 [submodule "murano-apps"]
 	path = murano-apps
 	url = https://github.com/openstack/murano-apps.git
-	branch = .
+	//branch = .
 [submodule "murano-dashboard"]
 	path = murano-dashboard
 	url = https://github.com/openstack/murano-dashboard.git
-	branch = .
+	//branch = .
 [submodule "murano-pkg-check"]
 	path = murano-pkg-check
 	url = https://github.com/openstack/murano-pkg-check.git
-	branch = .
+	//branch = .
 [submodule "murano-specs"]
 	path = murano-specs
 	url = https://github.com/openstack/murano-specs.git
-	branch = .
+	//branch = .
 [submodule "murano-tempest-plugin"]
 	path = murano-tempest-plugin
 	url = https://github.com/openstack/murano-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "networking-bagpipe"]
 	path = networking-bagpipe
 	url = https://github.com/openstack/networking-bagpipe.git
-	branch = .
+	//branch = .
 [submodule "networking-baremetal"]
 	path = networking-baremetal
 	url = https://github.com/openstack/networking-baremetal.git
-	branch = .
+	//branch = .
 [submodule "networking-bgpvpn"]
 	path = networking-bgpvpn
 	url = https://github.com/openstack/networking-bgpvpn.git
-	branch = .
+	//branch = .
 [submodule "networking-generic-switch"]
 	path = networking-generic-switch
 	url = https://github.com/openstack/networking-generic-switch.git
-	branch = .
+	//branch = .
 [submodule "networking-hyperv"]
 	path = networking-hyperv
 	url = https://github.com/openstack/networking-hyperv.git
-	branch = .
+	//branch = .
 [submodule "networking-midonet"]
 	path = networking-midonet
 	url = https://github.com/openstack/networking-midonet.git
-	branch = .
+	//branch = .
 [submodule "networking-odl"]
 	path = networking-odl
 	url = https://github.com/openstack/networking-odl.git
-	branch = .
+	//branch = .
 [submodule "networking-ovn"]
 	path = networking-ovn
 	url = https://github.com/openstack/networking-ovn.git
-	branch = .
+	//branch = .
 [submodule "networking-sfc"]
 	path = networking-sfc
 	url = https://github.com/openstack/networking-sfc.git
-	branch = .
+	//branch = .
 [submodule "neutron"]
 	path = neutron
 	url = https://github.com/openstack/neutron.git
-	branch = .
+	//branch = .
 [submodule "neutron-dynamic-routing"]
 	path = neutron-dynamic-routing
 	url = https://github.com/openstack/neutron-dynamic-routing.git
-	branch = .
+	//branch = .
 [submodule "neutron-fwaas"]
 	path = neutron-fwaas
 	url = https://github.com/openstack/neutron-fwaas.git
-	branch = .
+	//branch = .
 [submodule "neutron-fwaas-dashboard"]
 	path = neutron-fwaas-dashboard
 	url = https://github.com/openstack/neutron-fwaas-dashboard.git
-	branch = .
+	//branch = .
 [submodule "neutron-lbaas"]
 	path = neutron-lbaas
 	url = https://github.com/openstack/neutron-lbaas.git
-	branch = .
+	//branch = .
 [submodule "neutron-lbaas-dashboard"]
 	path = neutron-lbaas-dashboard
 	url = https://github.com/openstack/neutron-lbaas-dashboard.git
-	branch = .
+	//branch = .
 [submodule "neutron-lib"]
 	path = neutron-lib
 	url = https://github.com/openstack/neutron-lib.git
-	branch = .
+	//branch = .
 [submodule "neutron-specs"]
 	path = neutron-specs
 	url = https://github.com/openstack/neutron-specs.git
-	branch = .
+	//branch = .
 [submodule "neutron-tempest-plugin"]
 	path = neutron-tempest-plugin
 	url = https://github.com/openstack/neutron-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "neutron-vpnaas"]
 	path = neutron-vpnaas
 	url = https://github.com/openstack/neutron-vpnaas.git
-	branch = .
+	//branch = .
 [submodule "neutron-vpnaas-dashboard"]
 	path = neutron-vpnaas-dashboard
 	url = https://github.com/openstack/neutron-vpnaas-dashboard.git
-	branch = .
+	//branch = .
 [submodule "nova"]
 	path = nova
 	url = https://github.com/openstack/nova.git
-	branch = .
+	//branch = .
 [submodule "nova-specs"]
 	path = nova-specs
 	url = https://github.com/openstack/nova-specs.git
-	branch = .
+	//branch = .
 [submodule "octavia"]
 	path = octavia
 	url = https://github.com/openstack/octavia.git
-	branch = .
+	//branch = .
 [submodule "octavia-dashboard"]
 	path = octavia-dashboard
 	url = https://github.com/openstack/octavia-dashboard.git
-	branch = .
+	//branch = .
 [submodule "octavia-lib"]
 	path = octavia-lib
 	url = https://github.com/openstack/octavia-lib.git
-	branch = .
+	//branch = .
 [submodule "octavia-tempest-plugin"]
 	path = octavia-tempest-plugin
 	url = https://github.com/openstack/octavia-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible"]
 	path = openstack-ansible
 	url = https://github.com/openstack/openstack-ansible.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-apt_package_pinning"]
 	path = openstack-ansible-apt_package_pinning
 	url = https://github.com/openstack/openstack-ansible-apt_package_pinning.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-ceph_client"]
 	path = openstack-ansible-ceph_client
 	url = https://github.com/openstack/openstack-ansible-ceph_client.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-galera_client"]
 	path = openstack-ansible-galera_client
 	url = https://github.com/openstack/openstack-ansible-galera_client.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-galera_server"]
 	path = openstack-ansible-galera_server
 	url = https://github.com/openstack/openstack-ansible-galera_server.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-haproxy_server"]
 	path = openstack-ansible-haproxy_server
 	url = https://github.com/openstack/openstack-ansible-haproxy_server.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-lxc_container_create"]
 	path = openstack-ansible-lxc_container_create
 	url = https://github.com/openstack/openstack-ansible-lxc_container_create.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-lxc_hosts"]
 	path = openstack-ansible-lxc_hosts
 	url = https://github.com/openstack/openstack-ansible-lxc_hosts.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-memcached_server"]
 	path = openstack-ansible-memcached_server
 	url = https://github.com/openstack/openstack-ansible-memcached_server.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-nspawn_container_create"]
 	path = openstack-ansible-nspawn_container_create
 	url = https://github.com/openstack/openstack-ansible-nspawn_container_create.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-nspawn_hosts"]
 	path = openstack-ansible-nspawn_hosts
 	url = https://github.com/openstack/openstack-ansible-nspawn_hosts.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-openstack_hosts"]
 	path = openstack-ansible-openstack_hosts
 	url = https://github.com/openstack/openstack-ansible-openstack_hosts.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-openstack_openrc"]
 	path = openstack-ansible-openstack_openrc
 	url = https://github.com/openstack/openstack-ansible-openstack_openrc.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-ops"]
 	path = openstack-ansible-ops
 	url = https://github.com/openstack/openstack-ansible-ops.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_aodh"]
 	path = openstack-ansible-os_aodh
 	url = https://github.com/openstack/openstack-ansible-os_aodh.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_barbican"]
 	path = openstack-ansible-os_barbican
 	url = https://github.com/openstack/openstack-ansible-os_barbican.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_blazar"]
 	path = openstack-ansible-os_blazar
 	url = https://github.com/openstack/openstack-ansible-os_blazar.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_ceilometer"]
 	path = openstack-ansible-os_ceilometer
 	url = https://github.com/openstack/openstack-ansible-os_ceilometer.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_cinder"]
 	path = openstack-ansible-os_cinder
 	url = https://github.com/openstack/openstack-ansible-os_cinder.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_cloudkitty"]
 	path = openstack-ansible-os_cloudkitty
 	url = https://github.com/openstack/openstack-ansible-os_cloudkitty.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_congress"]
 	path = openstack-ansible-os_congress
 	url = https://github.com/openstack/openstack-ansible-os_congress.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_designate"]
 	path = openstack-ansible-os_designate
 	url = https://github.com/openstack/openstack-ansible-os_designate.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_glance"]
 	path = openstack-ansible-os_glance
 	url = https://github.com/openstack/openstack-ansible-os_glance.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_gnocchi"]
 	path = openstack-ansible-os_gnocchi
 	url = https://github.com/openstack/openstack-ansible-os_gnocchi.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_heat"]
 	path = openstack-ansible-os_heat
 	url = https://github.com/openstack/openstack-ansible-os_heat.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_horizon"]
 	path = openstack-ansible-os_horizon
 	url = https://github.com/openstack/openstack-ansible-os_horizon.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_ironic"]
 	path = openstack-ansible-os_ironic
 	url = https://github.com/openstack/openstack-ansible-os_ironic.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_karbor"]
 	path = openstack-ansible-os_karbor
 	url = https://github.com/openstack/openstack-ansible-os_karbor.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_keystone"]
 	path = openstack-ansible-os_keystone
 	url = https://github.com/openstack/openstack-ansible-os_keystone.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_magnum"]
 	path = openstack-ansible-os_magnum
 	url = https://github.com/openstack/openstack-ansible-os_magnum.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_manila"]
 	path = openstack-ansible-os_manila
 	url = https://github.com/openstack/openstack-ansible-os_manila.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_masakari"]
 	path = openstack-ansible-os_masakari
 	url = https://github.com/openstack/openstack-ansible-os_masakari.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_mistral"]
 	path = openstack-ansible-os_mistral
 	url = https://github.com/openstack/openstack-ansible-os_mistral.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_murano"]
 	path = openstack-ansible-os_murano
 	url = https://github.com/openstack/openstack-ansible-os_murano.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_neutron"]
 	path = openstack-ansible-os_neutron
 	url = https://github.com/openstack/openstack-ansible-os_neutron.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_nova"]
 	path = openstack-ansible-os_nova
 	url = https://github.com/openstack/openstack-ansible-os_nova.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_octavia"]
 	path = openstack-ansible-os_octavia
 	url = https://github.com/openstack/openstack-ansible-os_octavia.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_panko"]
 	path = openstack-ansible-os_panko
 	url = https://github.com/openstack/openstack-ansible-os_panko.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_placement"]
 	path = openstack-ansible-os_placement
 	url = https://github.com/openstack/openstack-ansible-os_placement.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_rally"]
 	path = openstack-ansible-os_rally
 	url = https://github.com/openstack/openstack-ansible-os_rally.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_sahara"]
 	path = openstack-ansible-os_sahara
 	url = https://github.com/openstack/openstack-ansible-os_sahara.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_swift"]
 	path = openstack-ansible-os_swift
 	url = https://github.com/openstack/openstack-ansible-os_swift.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_tacker"]
 	path = openstack-ansible-os_tacker
 	url = https://github.com/openstack/openstack-ansible-os_tacker.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_tempest"]
 	path = openstack-ansible-os_tempest
 	url = https://github.com/openstack/openstack-ansible-os_tempest.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_trove"]
 	path = openstack-ansible-os_trove
 	url = https://github.com/openstack/openstack-ansible-os_trove.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-os_zun"]
 	path = openstack-ansible-os_zun
 	url = https://github.com/openstack/openstack-ansible-os_zun.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-plugins"]
 	path = openstack-ansible-plugins
 	url = https://github.com/openstack/openstack-ansible-plugins.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-rabbitmq_server"]
 	path = openstack-ansible-rabbitmq_server
 	url = https://github.com/openstack/openstack-ansible-rabbitmq_server.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-repo_server"]
 	path = openstack-ansible-repo_server
 	url = https://github.com/openstack/openstack-ansible-repo_server.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-rsyslog_client"]
 	path = openstack-ansible-rsyslog_client
 	url = https://github.com/openstack/openstack-ansible-rsyslog_client.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-rsyslog_server"]
 	path = openstack-ansible-rsyslog_server
 	url = https://github.com/openstack/openstack-ansible-rsyslog_server.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-specs"]
 	path = openstack-ansible-specs
 	url = https://github.com/openstack/openstack-ansible-specs.git
-	branch = .
+	//branch = .
 [submodule "openstack-ansible-tests"]
 	path = openstack-ansible-tests
 	url = https://github.com/openstack/openstack-ansible-tests.git
-	branch = .
+	//branch = .
 [submodule "openstack-chef"]
 	path = openstack-chef
 	url = https://github.com/openstack/openstack-chef.git
-	branch = .
+	//branch = .
 [submodule "openstack-chef-repo"]
 	path = openstack-chef-repo
 	url = https://github.com/openstack/openstack-chef-repo.git
-	branch = .
+	//branch = .
 [submodule "openstack-chef-specs"]
 	path = openstack-chef-specs
 	url = https://github.com/openstack/openstack-chef-specs.git
-	branch = .
+	//branch = .
 [submodule "openstack-doc-tools"]
 	path = openstack-doc-tools
 	url = https://github.com/openstack/openstack-doc-tools.git
-	branch = .
+	//branch = .
 [submodule "openstack-health"]
 	path = openstack-health
 	url = https://github.com/openstack/openstack-health.git
-	branch = .
+	//branch = .
 [submodule "openstack-helm"]
 	path = openstack-helm
 	url = https://github.com/openstack/openstack-helm.git
-	branch = .
+	//branch = .
 [submodule "openstack-helm-addons"]
 	path = openstack-helm-addons
 	url = https://github.com/openstack/openstack-helm-addons.git
-	branch = .
+	//branch = .
 [submodule "openstack-helm-docs"]
 	path = openstack-helm-docs
 	url = https://github.com/openstack/openstack-helm-docs.git
-	branch = .
+	//branch = .
 [submodule "openstack-helm-images"]
 	path = openstack-helm-images
 	url = https://github.com/openstack/openstack-helm-images.git
-	branch = .
+	//branch = .
 [submodule "openstack-helm-infra"]
 	path = openstack-helm-infra
 	url = https://github.com/openstack/openstack-helm-infra.git
-	branch = .
+	//branch = .
 [submodule "openstack-tempest-skiplist"]
 	path = openstack-tempest-skiplist
 	url = https://github.com/openstack/openstack-tempest-skiplist.git
-	branch = .
+	//branch = .
 [submodule "openstack-virtual-baremetal"]
 	path = openstack-virtual-baremetal
 	url = https://github.com/openstack/openstack-virtual-baremetal.git
-	branch = .
+	//branch = .
 [submodule "openstackclient"]
 	path = openstackclient
 	url = https://github.com/openstack/openstackclient.git
-	branch = .
+	//branch = .
 [submodule "openstackdocstheme"]
 	path = openstackdocstheme
 	url = https://github.com/openstack/openstackdocstheme.git
-	branch = .
+	//branch = .
 [submodule "openstacksdk"]
 	path = openstacksdk
 	url = https://github.com/openstack/openstacksdk.git
-	branch = .
+	//branch = .
 [submodule "os-api-ref"]
 	path = os-api-ref
 	url = https://github.com/openstack/os-api-ref.git
-	branch = .
+	//branch = .
 [submodule "os-apply-config"]
 	path = os-apply-config
 	url = https://github.com/openstack/os-apply-config.git
-	branch = .
+	//branch = .
 [submodule "os-brick"]
 	path = os-brick
 	url = https://github.com/openstack/os-brick.git
-	branch = .
+	//branch = .
 [submodule "os-client-config"]
 	path = os-client-config
 	url = https://github.com/openstack/os-client-config.git
-	branch = .
+	//branch = .
 [submodule "os-collect-config"]
 	path = os-collect-config
 	url = https://github.com/openstack/os-collect-config.git
-	branch = .
+	//branch = .
 [submodule "os-ken"]
 	path = os-ken
 	url = https://github.com/openstack/os-ken.git
-	branch = .
+	//branch = .
 [submodule "os-net-config"]
 	path = os-net-config
 	url = https://github.com/openstack/os-net-config.git
-	branch = .
+	//branch = .
 [submodule "os-performance-tools"]
 	path = os-performance-tools
 	url = https://github.com/openstack/os-performance-tools.git
-	branch = .
+	//branch = .
 [submodule "os-refresh-config"]
 	path = os-refresh-config
 	url = https://github.com/openstack/os-refresh-config.git
-	branch = .
+	//branch = .
 [submodule "os-resource-classes"]
 	path = os-resource-classes
 	url = https://github.com/openstack/os-resource-classes.git
-	branch = .
+	//branch = .
 [submodule "os-service-types"]
 	path = os-service-types
 	url = https://github.com/openstack/os-service-types.git
-	branch = .
+	//branch = .
 [submodule "os-testr"]
 	path = os-testr
 	url = https://github.com/openstack/os-testr.git
-	branch = .
+	//branch = .
 [submodule "os-traits"]
 	path = os-traits
 	url = https://github.com/openstack/os-traits.git
-	branch = .
+	//branch = .
 [submodule "os-vif"]
 	path = os-vif
 	url = https://github.com/openstack/os-vif.git
-	branch = .
+	//branch = .
 [submodule "os-win"]
 	path = os-win
 	url = https://github.com/openstack/os-win.git
-	branch = .
+	//branch = .
 [submodule "osc-lib"]
 	path = osc-lib
 	url = https://github.com/openstack/osc-lib.git
-	branch = .
+	//branch = .
 [submodule "osc-placement"]
 	path = osc-placement
 	url = https://github.com/openstack/osc-placement.git
-	branch = .
+	//branch = .
 [submodule "oslo-cookiecutter"]
 	path = oslo-cookiecutter
 	url = https://github.com/openstack/oslo-cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "oslo-specs"]
 	path = oslo-specs
 	url = https://github.com/openstack/oslo-specs.git
-	branch = .
+	//branch = .
 [submodule "oslo.cache"]
 	path = oslo.cache
 	url = https://github.com/openstack/oslo.cache.git
-	branch = .
+	//branch = .
 [submodule "oslo.concurrency"]
 	path = oslo.concurrency
 	url = https://github.com/openstack/oslo.concurrency.git
-	branch = .
+	//branch = .
 [submodule "oslo.config"]
 	path = oslo.config
 	url = https://github.com/openstack/oslo.config.git
-	branch = .
+	//branch = .
 [submodule "oslo.context"]
 	path = oslo.context
 	url = https://github.com/openstack/oslo.context.git
-	branch = .
+	//branch = .
 [submodule "oslo.db"]
 	path = oslo.db
 	url = https://github.com/openstack/oslo.db.git
-	branch = .
+	//branch = .
 [submodule "oslo.i18n"]
 	path = oslo.i18n
 	url = https://github.com/openstack/oslo.i18n.git
-	branch = .
+	//branch = .
 [submodule "oslo.limit"]
 	path = oslo.limit
 	url = https://github.com/openstack/oslo.limit.git
-	branch = .
+	//branch = .
 [submodule "oslo.log"]
 	path = oslo.log
 	url = https://github.com/openstack/oslo.log.git
-	branch = .
+	//branch = .
 [submodule "oslo.messaging"]
 	path = oslo.messaging
 	url = https://github.com/openstack/oslo.messaging.git
-	branch = .
+	//branch = .
 [submodule "oslo.metrics"]
 	path = oslo.metrics
 	url = https://github.com/openstack/oslo.metrics.git
-	branch = .
+	//branch = .
 [submodule "oslo.middleware"]
 	path = oslo.middleware
 	url = https://github.com/openstack/oslo.middleware.git
-	branch = .
+	//branch = .
 [submodule "oslo.policy"]
 	path = oslo.policy
 	url = https://github.com/openstack/oslo.policy.git
-	branch = .
+	//branch = .
 [submodule "oslo.privsep"]
 	path = oslo.privsep
 	url = https://github.com/openstack/oslo.privsep.git
-	branch = .
+	//branch = .
 [submodule "oslo.reports"]
 	path = oslo.reports
 	url = https://github.com/openstack/oslo.reports.git
-	branch = .
+	//branch = .
 [submodule "oslo.rootwrap"]
 	path = oslo.rootwrap
 	url = https://github.com/openstack/oslo.rootwrap.git
-	branch = .
+	//branch = .
 [submodule "oslo.serialization"]
 	path = oslo.serialization
 	url = https://github.com/openstack/oslo.serialization.git
-	branch = .
+	//branch = .
 [submodule "oslo.service"]
 	path = oslo.service
 	url = https://github.com/openstack/oslo.service.git
-	branch = .
+	//branch = .
 [submodule "oslo.tools"]
 	path = oslo.tools
 	url = https://github.com/openstack/oslo.tools.git
-	branch = .
+	//branch = .
 [submodule "oslo.upgradecheck"]
 	path = oslo.upgradecheck
 	url = https://github.com/openstack/oslo.upgradecheck.git
-	branch = .
+	//branch = .
 [submodule "oslo.utils"]
 	path = oslo.utils
 	url = https://github.com/openstack/oslo.utils.git
-	branch = .
+	//branch = .
 [submodule "oslo.versionedobjects"]
 	path = oslo.versionedobjects
 	url = https://github.com/openstack/oslo.versionedobjects.git
-	branch = .
+	//branch = .
 [submodule "oslo.vmware"]
 	path = oslo.vmware
 	url = https://github.com/openstack/oslo.vmware.git
-	branch = .
+	//branch = .
 [submodule "oslotest"]
 	path = oslotest
 	url = https://github.com/openstack/oslotest.git
-	branch = .
+	//branch = .
 [submodule "osprofiler"]
 	path = osprofiler
 	url = https://github.com/openstack/osprofiler.git
-	branch = .
+	//branch = .
 [submodule "oswin-tempest-plugin"]
 	path = oswin-tempest-plugin
 	url = https://github.com/openstack/oswin-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "ovn-octavia-provider"]
 	path = ovn-octavia-provider
 	url = https://github.com/openstack/ovn-octavia-provider.git
-	branch = .
+	//branch = .
 [submodule "ovsdbapp"]
 	path = ovsdbapp
 	url = https://github.com/openstack/ovsdbapp.git
-	branch = .
+	//branch = .
 [submodule "panko"]
 	path = panko
 	url = https://github.com/openstack/panko.git
-	branch = .
+	//branch = .
 [submodule "patrole"]
 	path = patrole
 	url = https://github.com/openstack/patrole.git
-	branch = .
+	//branch = .
 [submodule "paunch"]
 	path = paunch
 	url = https://github.com/openstack/paunch.git
-	branch = .
+	//branch = .
 [submodule "pbr"]
 	path = pbr
 	url = https://github.com/openstack/pbr.git
-	branch = .
+	//branch = .
 [submodule "performance-docs"]
 	path = performance-docs
 	url = https://github.com/openstack/performance-docs.git
-	branch = .
+	//branch = .
 [submodule "placement"]
 	path = placement
 	url = https://github.com/openstack/placement.git
-	branch = .
+	//branch = .
 [submodule "puppet-aodh"]
 	path = puppet-aodh
 	url = https://github.com/openstack/puppet-aodh.git
-	branch = .
+	//branch = .
 [submodule "puppet-barbican"]
 	path = puppet-barbican
 	url = https://github.com/openstack/puppet-barbican.git
-	branch = .
+	//branch = .
 [submodule "puppet-ceilometer"]
 	path = puppet-ceilometer
 	url = https://github.com/openstack/puppet-ceilometer.git
-	branch = .
+	//branch = .
 [submodule "puppet-ceph"]
 	path = puppet-ceph
 	url = https://github.com/openstack/puppet-ceph.git
-	branch = .
+	//branch = .
 [submodule "puppet-cinder"]
 	path = puppet-cinder
 	url = https://github.com/openstack/puppet-cinder.git
-	branch = .
+	//branch = .
 [submodule "puppet-cloudkitty"]
 	path = puppet-cloudkitty
 	url = https://github.com/openstack/puppet-cloudkitty.git
-	branch = .
+	//branch = .
 [submodule "puppet-congress"]
 	path = puppet-congress
 	url = https://github.com/openstack/puppet-congress.git
-	branch = .
+	//branch = .
 [submodule "puppet-designate"]
 	path = puppet-designate
 	url = https://github.com/openstack/puppet-designate.git
-	branch = .
+	//branch = .
 [submodule "puppet-ec2api"]
 	path = puppet-ec2api
 	url = https://github.com/openstack/puppet-ec2api.git
-	branch = .
+	//branch = .
 [submodule "puppet-freezer"]
 	path = puppet-freezer
 	url = https://github.com/openstack/puppet-freezer.git
-	branch = .
+	//branch = .
 [submodule "puppet-glance"]
 	path = puppet-glance
 	url = https://github.com/openstack/puppet-glance.git
-	branch = .
+	//branch = .
 [submodule "puppet-glare"]
 	path = puppet-glare
 	url = https://github.com/openstack/puppet-glare.git
-	branch = .
+	//branch = .
 [submodule "puppet-gnocchi"]
 	path = puppet-gnocchi
 	url = https://github.com/openstack/puppet-gnocchi.git
-	branch = .
+	//branch = .
 [submodule "puppet-heat"]
 	path = puppet-heat
 	url = https://github.com/openstack/puppet-heat.git
-	branch = .
+	//branch = .
 [submodule "puppet-horizon"]
 	path = puppet-horizon
 	url = https://github.com/openstack/puppet-horizon.git
-	branch = .
+	//branch = .
 [submodule "puppet-ironic"]
 	path = puppet-ironic
 	url = https://github.com/openstack/puppet-ironic.git
-	branch = .
+	//branch = .
 [submodule "puppet-keystone"]
 	path = puppet-keystone
 	url = https://github.com/openstack/puppet-keystone.git
-	branch = .
+	//branch = .
 [submodule "puppet-magnum"]
 	path = puppet-magnum
 	url = https://github.com/openstack/puppet-magnum.git
-	branch = .
+	//branch = .
 [submodule "puppet-manila"]
 	path = puppet-manila
 	url = https://github.com/openstack/puppet-manila.git
-	branch = .
+	//branch = .
 [submodule "puppet-mistral"]
 	path = puppet-mistral
 	url = https://github.com/openstack/puppet-mistral.git
-	branch = .
+	//branch = .
 [submodule "puppet-monasca"]
 	path = puppet-monasca
 	url = https://github.com/openstack/puppet-monasca.git
-	branch = .
+	//branch = .
 [submodule "puppet-murano"]
 	path = puppet-murano
 	url = https://github.com/openstack/puppet-murano.git
-	branch = .
+	//branch = .
 [submodule "puppet-neutron"]
 	path = puppet-neutron
 	url = https://github.com/openstack/puppet-neutron.git
-	branch = .
+	//branch = .
 [submodule "puppet-nova"]
 	path = puppet-nova
 	url = https://github.com/openstack/puppet-nova.git
-	branch = .
+	//branch = .
 [submodule "puppet-octavia"]
 	path = puppet-octavia
 	url = https://github.com/openstack/puppet-octavia.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstack-cookiecutter"]
 	path = puppet-openstack-cookiecutter
 	url = https://github.com/openstack/puppet-openstack-cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstack-guide"]
 	path = puppet-openstack-guide
 	url = https://github.com/openstack/puppet-openstack-guide.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstack-integration"]
 	path = puppet-openstack-integration
 	url = https://github.com/openstack/puppet-openstack-integration.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstack-specs"]
 	path = puppet-openstack-specs
 	url = https://github.com/openstack/puppet-openstack-specs.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstack_extras"]
 	path = puppet-openstack_extras
 	url = https://github.com/openstack/puppet-openstack_extras.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstack_spec_helper"]
 	path = puppet-openstack_spec_helper
 	url = https://github.com/openstack/puppet-openstack_spec_helper.git
-	branch = .
+	//branch = .
 [submodule "puppet-openstacklib"]
 	path = puppet-openstacklib
 	url = https://github.com/openstack/puppet-openstacklib.git
-	branch = .
+	//branch = .
 [submodule "puppet-oslo"]
 	path = puppet-oslo
 	url = https://github.com/openstack/puppet-oslo.git
-	branch = .
+	//branch = .
 [submodule "puppet-ovn"]
 	path = puppet-ovn
 	url = https://github.com/openstack/puppet-ovn.git
-	branch = .
+	//branch = .
 [submodule "puppet-pacemaker"]
 	path = puppet-pacemaker
 	url = https://github.com/openstack/puppet-pacemaker.git
-	branch = .
+	//branch = .
 [submodule "puppet-panko"]
 	path = puppet-panko
 	url = https://github.com/openstack/puppet-panko.git
-	branch = .
+	//branch = .
 [submodule "puppet-placement"]
 	path = puppet-placement
 	url = https://github.com/openstack/puppet-placement.git
-	branch = .
+	//branch = .
 [submodule "puppet-qdr"]
 	path = puppet-qdr
 	url = https://github.com/openstack/puppet-qdr.git
-	branch = .
+	//branch = .
 [submodule "puppet-rally"]
 	path = puppet-rally
 	url = https://github.com/openstack/puppet-rally.git
-	branch = .
+	//branch = .
 [submodule "puppet-sahara"]
 	path = puppet-sahara
 	url = https://github.com/openstack/puppet-sahara.git
-	branch = .
+	//branch = .
 [submodule "puppet-senlin"]
 	path = puppet-senlin
 	url = https://github.com/openstack/puppet-senlin.git
-	branch = .
+	//branch = .
 [submodule "puppet-swift"]
 	path = puppet-swift
 	url = https://github.com/openstack/puppet-swift.git
-	branch = .
+	//branch = .
 [submodule "puppet-tacker"]
 	path = puppet-tacker
 	url = https://github.com/openstack/puppet-tacker.git
-	branch = .
+	//branch = .
 [submodule "puppet-tempest"]
 	path = puppet-tempest
 	url = https://github.com/openstack/puppet-tempest.git
-	branch = .
+	//branch = .
 [submodule "puppet-tripleo"]
 	path = puppet-tripleo
 	url = https://github.com/openstack/puppet-tripleo.git
-	branch = .
+	//branch = .
 [submodule "puppet-trove"]
 	path = puppet-trove
 	url = https://github.com/openstack/puppet-trove.git
-	branch = .
+	//branch = .
 [submodule "puppet-vitrage"]
 	path = puppet-vitrage
 	url = https://github.com/openstack/puppet-vitrage.git
-	branch = .
+	//branch = .
 [submodule "puppet-vswitch"]
 	path = puppet-vswitch
 	url = https://github.com/openstack/puppet-vswitch.git
-	branch = .
+	//branch = .
 [submodule "puppet-watcher"]
 	path = puppet-watcher
 	url = https://github.com/openstack/puppet-watcher.git
-	branch = .
+	//branch = .
 [submodule "puppet-zaqar"]
 	path = puppet-zaqar
 	url = https://github.com/openstack/puppet-zaqar.git
-	branch = .
+	//branch = .
 [submodule "pycadf"]
 	path = pycadf
 	url = https://github.com/openstack/pycadf.git
-	branch = .
+	//branch = .
 [submodule "pyeclib"]
 	path = pyeclib
 	url = https://github.com/openstack/pyeclib.git
-	branch = .
+	//branch = .
 [submodule "pymod2pkg"]
 	path = pymod2pkg
 	url = https://github.com/openstack/pymod2pkg.git
-	branch = .
+	//branch = .
 [submodule "python-adjutantclient"]
 	path = python-adjutantclient
 	url = https://github.com/openstack/python-adjutantclient.git
-	branch = .
+	//branch = .
 [submodule "python-aodhclient"]
 	path = python-aodhclient
 	url = https://github.com/openstack/python-aodhclient.git
-	branch = .
+	//branch = .
 [submodule "python-barbicanclient"]
 	path = python-barbicanclient
 	url = https://github.com/openstack/python-barbicanclient.git
-	branch = .
+	//branch = .
 [submodule "python-blazarclient"]
 	path = python-blazarclient
 	url = https://github.com/openstack/python-blazarclient.git
-	branch = .
+	//branch = .
 [submodule "python-brick-cinderclient-ext"]
 	path = python-brick-cinderclient-ext
 	url = https://github.com/openstack/python-brick-cinderclient-ext.git
-	branch = .
+	//branch = .
 [submodule "python-cinderclient"]
 	path = python-cinderclient
 	url = https://github.com/openstack/python-cinderclient.git
-	branch = .
+	//branch = .
 [submodule "python-cloudkittyclient"]
 	path = python-cloudkittyclient
 	url = https://github.com/openstack/python-cloudkittyclient.git
-	branch = .
+	//branch = .
 [submodule "python-cyborgclient"]
 	path = python-cyborgclient
 	url = https://github.com/openstack/python-cyborgclient.git
-	branch = .
+	//branch = .
 [submodule "python-designateclient"]
 	path = python-designateclient
 	url = https://github.com/openstack/python-designateclient.git
-	branch = .
+	//branch = .
 [submodule "python-freezerclient"]
 	path = python-freezerclient
 	url = https://github.com/openstack/python-freezerclient.git
-	branch = .
+	//branch = .
 [submodule "python-glanceclient"]
 	path = python-glanceclient
 	url = https://github.com/openstack/python-glanceclient.git
-	branch = .
+	//branch = .
 [submodule "python-heatclient"]
 	path = python-heatclient
 	url = https://github.com/openstack/python-heatclient.git
-	branch = .
+	//branch = .
 [submodule "python-ironic-inspector-client"]
 	path = python-ironic-inspector-client
 	url = https://github.com/openstack/python-ironic-inspector-client.git
-	branch = .
+	//branch = .
 [submodule "python-ironicclient"]
 	path = python-ironicclient
 	url = https://github.com/openstack/python-ironicclient.git
-	branch = .
+	//branch = .
 [submodule "python-karborclient"]
 	path = python-karborclient
 	url = https://github.com/openstack/python-karborclient.git
-	branch = .
+	//branch = .
 [submodule "python-keystoneclient"]
 	path = python-keystoneclient
 	url = https://github.com/openstack/python-keystoneclient.git
-	branch = .
+	//branch = .
 [submodule "python-magnumclient"]
 	path = python-magnumclient
 	url = https://github.com/openstack/python-magnumclient.git
-	branch = .
+	//branch = .
 [submodule "python-manilaclient"]
 	path = python-manilaclient
 	url = https://github.com/openstack/python-manilaclient.git
-	branch = .
+	//branch = .
 [submodule "python-masakariclient"]
 	path = python-masakariclient
 	url = https://github.com/openstack/python-masakariclient.git
-	branch = .
+	//branch = .
 [submodule "python-mistralclient"]
 	path = python-mistralclient
 	url = https://github.com/openstack/python-mistralclient.git
-	branch = .
+	//branch = .
 [submodule "python-monascaclient"]
 	path = python-monascaclient
 	url = https://github.com/openstack/python-monascaclient.git
-	branch = .
+	//branch = .
 [submodule "python-muranoclient"]
 	path = python-muranoclient
 	url = https://github.com/openstack/python-muranoclient.git
-	branch = .
+	//branch = .
 [submodule "python-neutronclient"]
 	path = python-neutronclient
 	url = https://github.com/openstack/python-neutronclient.git
-	branch = .
+	//branch = .
 [submodule "python-novaclient"]
 	path = python-novaclient
 	url = https://github.com/openstack/python-novaclient.git
-	branch = .
+	//branch = .
 [submodule "python-octaviaclient"]
 	path = python-octaviaclient
 	url = https://github.com/openstack/python-octaviaclient.git
-	branch = .
+	//branch = .
 [submodule "python-openstackclient"]
 	path = python-openstackclient
 	url = https://github.com/openstack/python-openstackclient.git
-	branch = .
+	//branch = .
 [submodule "python-pankoclient"]
 	path = python-pankoclient
 	url = https://github.com/openstack/python-pankoclient.git
-	branch = .
+	//branch = .
 [submodule "python-qinlingclient"]
 	path = python-qinlingclient
 	url = https://github.com/openstack/python-qinlingclient.git
-	branch = .
+	//branch = .
 [submodule "python-saharaclient"]
 	path = python-saharaclient
 	url = https://github.com/openstack/python-saharaclient.git
-	branch = .
+	//branch = .
 [submodule "python-searchlightclient"]
 	path = python-searchlightclient
 	url = https://github.com/openstack/python-searchlightclient.git
-	branch = .
+	//branch = .
 [submodule "python-senlinclient"]
 	path = python-senlinclient
 	url = https://github.com/openstack/python-senlinclient.git
-	branch = .
+	//branch = .
 [submodule "python-solumclient"]
 	path = python-solumclient
 	url = https://github.com/openstack/python-solumclient.git
-	branch = .
+	//branch = .
 [submodule "python-swiftclient"]
 	path = python-swiftclient
 	url = https://github.com/openstack/python-swiftclient.git
-	branch = .
+	//branch = .
 [submodule "python-tackerclient"]
 	path = python-tackerclient
 	url = https://github.com/openstack/python-tackerclient.git
-	branch = .
+	//branch = .
 [submodule "python-tripleoclient"]
 	path = python-tripleoclient
 	url = https://github.com/openstack/python-tripleoclient.git
-	branch = .
+	//branch = .
 [submodule "python-troveclient"]
 	path = python-troveclient
 	url = https://github.com/openstack/python-troveclient.git
-	branch = .
+	//branch = .
 [submodule "python-vitrageclient"]
 	path = python-vitrageclient
 	url = https://github.com/openstack/python-vitrageclient.git
-	branch = .
+	//branch = .
 [submodule "python-watcherclient"]
 	path = python-watcherclient
 	url = https://github.com/openstack/python-watcherclient.git
-	branch = .
+	//branch = .
 [submodule "python-zaqarclient"]
 	path = python-zaqarclient
 	url = https://github.com/openstack/python-zaqarclient.git
-	branch = .
+	//branch = .
 [submodule "python-zunclient"]
 	path = python-zunclient
 	url = https://github.com/openstack/python-zunclient.git
-	branch = .
+	//branch = .
 [submodule "qa-specs"]
 	path = qa-specs
 	url = https://github.com/openstack/qa-specs.git
-	branch = .
+	//branch = .
 [submodule "qinling"]
 	path = qinling
 	url = https://github.com/openstack/qinling.git
-	branch = .
+	//branch = .
 [submodule "qinling-dashboard"]
 	path = qinling-dashboard
 	url = https://github.com/openstack/qinling-dashboard.git
-	branch = .
+	//branch = .
 [submodule "rally"]
 	path = rally
 	url = https://github.com/openstack/rally.git
-	branch = .
+	//branch = .
 [submodule "rally-openstack"]
 	path = rally-openstack
 	url = https://github.com/openstack/rally-openstack.git
-	branch = .
+	//branch = .
 [submodule "release-test"]
 	path = release-test
 	url = https://github.com/openstack/release-test.git
-	branch = .
+	//branch = .
 [submodule "releases"]
 	path = releases
 	url = https://github.com/openstack/releases.git
-	branch = .
+	//branch = .
 [submodule "renderspec"]
 	path = renderspec
 	url = https://github.com/openstack/renderspec.git
-	branch = .
+	//branch = .
 [submodule "reno"]
 	path = reno
 	url = https://github.com/openstack/reno.git
-	branch = .
+	//branch = .
 [submodule "requestsexceptions"]
 	path = requestsexceptions
 	url = https://github.com/openstack/requestsexceptions.git
-	branch = .
+	//branch = .
 [submodule "requirements"]
 	path = requirements
 	url = https://github.com/openstack/requirements.git
-	branch = .
+	//branch = .
 [submodule "rpm-packaging"]
 	path = rpm-packaging
 	url = https://github.com/openstack/rpm-packaging.git
-	branch = .
+	//branch = .
 [submodule "rpm-packaging-tools"]
 	path = rpm-packaging-tools
 	url = https://github.com/openstack/rpm-packaging-tools.git
-	branch = .
+	//branch = .
 [submodule "sahara"]
 	path = sahara
 	url = https://github.com/openstack/sahara.git
-	branch = .
+	//branch = .
 [submodule "sahara-dashboard"]
 	path = sahara-dashboard
 	url = https://github.com/openstack/sahara-dashboard.git
-	branch = .
+	//branch = .
 [submodule "sahara-extra"]
 	path = sahara-extra
 	url = https://github.com/openstack/sahara-extra.git
-	branch = .
+	//branch = .
 [submodule "sahara-image-elements"]
 	path = sahara-image-elements
 	url = https://github.com/openstack/sahara-image-elements.git
-	branch = .
+	//branch = .
 [submodule "sahara-plugin-ambari"]
 	path = sahara-plugin-ambari
 	url = https://github.com/openstack/sahara-plugin-ambari.git
-	branch = .
+	//branch = .
 [submodule "sahara-plugin-cdh"]
 	path = sahara-plugin-cdh
 	url = https://github.com/openstack/sahara-plugin-cdh.git
-	branch = .
+	//branch = .
 [submodule "sahara-plugin-mapr"]
 	path = sahara-plugin-mapr
 	url = https://github.com/openstack/sahara-plugin-mapr.git
-	branch = .
+	//branch = .
 [submodule "sahara-plugin-spark"]
 	path = sahara-plugin-spark
 	url = https://github.com/openstack/sahara-plugin-spark.git
-	branch = .
+	//branch = .
 [submodule "sahara-plugin-storm"]
 	path = sahara-plugin-storm
 	url = https://github.com/openstack/sahara-plugin-storm.git
-	branch = .
+	//branch = .
 [submodule "sahara-plugin-vanilla"]
 	path = sahara-plugin-vanilla
 	url = https://github.com/openstack/sahara-plugin-vanilla.git
-	branch = .
+	//branch = .
 [submodule "sahara-specs"]
 	path = sahara-specs
 	url = https://github.com/openstack/sahara-specs.git
-	branch = .
+	//branch = .
 [submodule "sahara-tests"]
 	path = sahara-tests
 	url = https://github.com/openstack/sahara-tests.git
-	branch = .
+	//branch = .
 [submodule "searchlight"]
 	path = searchlight
 	url = https://github.com/openstack/searchlight.git
-	branch = .
+	//branch = .
 [submodule "searchlight-specs"]
 	path = searchlight-specs
 	url = https://github.com/openstack/searchlight-specs.git
-	branch = .
+	//branch = .
 [submodule "searchlight-ui"]
 	path = searchlight-ui
 	url = https://github.com/openstack/searchlight-ui.git
-	branch = .
+	//branch = .
 [submodule "senlin"]
 	path = senlin
 	url = https://github.com/openstack/senlin.git
-	branch = .
+	//branch = .
 [submodule "senlin-dashboard"]
 	path = senlin-dashboard
 	url = https://github.com/openstack/senlin-dashboard.git
-	branch = .
+	//branch = .
 [submodule "senlin-tempest-plugin"]
 	path = senlin-tempest-plugin
 	url = https://github.com/openstack/senlin-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "shade"]
 	path = shade
 	url = https://github.com/openstack/shade.git
-	branch = .
+	//branch = .
 [submodule "solum"]
 	path = solum
 	url = https://github.com/openstack/solum.git
-	branch = .
+	//branch = .
 [submodule "solum-dashboard"]
 	path = solum-dashboard
 	url = https://github.com/openstack/solum-dashboard.git
-	branch = .
+	//branch = .
 [submodule "solum-specs"]
 	path = solum-specs
 	url = https://github.com/openstack/solum-specs.git
-	branch = .
+	//branch = .
 [submodule "solum-tempest-plugin"]
 	path = solum-tempest-plugin
 	url = https://github.com/openstack/solum-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "specs-cookiecutter"]
 	path = specs-cookiecutter
 	url = https://github.com/openstack/specs-cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "sphinx-feature-classification"]
 	path = sphinx-feature-classification
 	url = https://github.com/openstack/sphinx-feature-classification.git
-	branch = .
+	//branch = .
 [submodule "stackviz"]
 	path = stackviz
 	url = https://github.com/openstack/stackviz.git
-	branch = .
+	//branch = .
 [submodule "stevedore"]
 	path = stevedore
 	url = https://github.com/openstack/stevedore.git
-	branch = .
+	//branch = .
 [submodule "storlets"]
 	path = storlets
 	url = https://github.com/openstack/storlets.git
-	branch = .
+	//branch = .
 [submodule "sushy"]
 	path = sushy
 	url = https://github.com/openstack/sushy.git
-	branch = .
+	//branch = .
 [submodule "sushy-cli"]
 	path = sushy-cli
 	url = https://github.com/openstack/sushy-cli.git
-	branch = .
+	//branch = .
 [submodule "sushy-tools"]
 	path = sushy-tools
 	url = https://github.com/openstack/sushy-tools.git
-	branch = .
+	//branch = .
 [submodule "swift"]
 	path = swift
 	url = https://github.com/openstack/swift.git
-	branch = .
+	//branch = .
 [submodule "swift-bench"]
 	path = swift-bench
 	url = https://github.com/openstack/swift-bench.git
-	branch = .
+	//branch = .
 [submodule "tacker"]
 	path = tacker
 	url = https://github.com/openstack/tacker.git
-	branch = .
+	//branch = .
 [submodule "tacker-horizon"]
 	path = tacker-horizon
 	url = https://github.com/openstack/tacker-horizon.git
-	branch = .
+	//branch = .
 [submodule "tacker-specs"]
 	path = tacker-specs
 	url = https://github.com/openstack/tacker-specs.git
-	branch = .
+	//branch = .
 [submodule "taskflow"]
 	path = taskflow
 	url = https://github.com/openstack/taskflow.git
-	branch = .
+	//branch = .
 [submodule "telemetry-specs"]
 	path = telemetry-specs
 	url = https://github.com/openstack/telemetry-specs.git
-	branch = .
+	//branch = .
 [submodule "telemetry-tempest-plugin"]
 	path = telemetry-tempest-plugin
 	url = https://github.com/openstack/telemetry-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "tempest"]
 	path = tempest
 	url = https://github.com/openstack/tempest.git
-	branch = .
+	//branch = .
 [submodule "tempest-horizon"]
 	path = tempest-horizon
 	url = https://github.com/openstack/tempest-horizon.git
-	branch = .
+	//branch = .
 [submodule "tempest-lib"]
 	path = tempest-lib
 	url = https://github.com/openstack/tempest-lib.git
-	branch = .
+	//branch = .
 [submodule "tempest-plugin-cookiecutter"]
 	path = tempest-plugin-cookiecutter
 	url = https://github.com/openstack/tempest-plugin-cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "tempest-stress"]
 	path = tempest-stress
 	url = https://github.com/openstack/tempest-stress.git
-	branch = .
+	//branch = .
 [submodule "tenks"]
 	path = tenks
 	url = https://github.com/openstack/tenks.git
-	branch = .
+	//branch = .
 [submodule "tooz"]
 	path = tooz
 	url = https://github.com/openstack/tooz.git
-	branch = .
+	//branch = .
 [submodule "tosca-parser"]
 	path = tosca-parser
 	url = https://github.com/openstack/tosca-parser.git
-	branch = .
+	//branch = .
 [submodule "tripleo-ansible"]
 	path = tripleo-ansible
 	url = https://github.com/openstack/tripleo-ansible.git
-	branch = .
+	//branch = .
 [submodule "tripleo-ci"]
 	path = tripleo-ci
 	url = https://github.com/openstack/tripleo-ci.git
-	branch = .
+	//branch = .
 [submodule "tripleo-common"]
 	path = tripleo-common
 	url = https://github.com/openstack/tripleo-common.git
-	branch = .
+	//branch = .
 [submodule "tripleo-common-tempest-plugin"]
 	path = tripleo-common-tempest-plugin
 	url = https://github.com/openstack/tripleo-common-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "tripleo-docs"]
 	path = tripleo-docs
 	url = https://github.com/openstack/tripleo-docs.git
-	branch = .
+	//branch = .
 [submodule "tripleo-ha-utils"]
 	path = tripleo-ha-utils
 	url = https://github.com/openstack/tripleo-ha-utils.git
-	branch = .
+	//branch = .
 [submodule "tripleo-heat-templates"]
 	path = tripleo-heat-templates
 	url = https://github.com/openstack/tripleo-heat-templates.git
-	branch = .
+	//branch = .
 [submodule "tripleo-image-elements"]
 	path = tripleo-image-elements
 	url = https://github.com/openstack/tripleo-image-elements.git
-	branch = .
+	//branch = .
 [submodule "tripleo-ipsec"]
 	path = tripleo-ipsec
 	url = https://github.com/openstack/tripleo-ipsec.git
-	branch = .
+	//branch = .
 [submodule "tripleo-operator-ansible"]
 	path = tripleo-operator-ansible
 	url = https://github.com/openstack/tripleo-operator-ansible.git
-	branch = .
+	//branch = .
 [submodule "tripleo-puppet-elements"]
 	path = tripleo-puppet-elements
 	url = https://github.com/openstack/tripleo-puppet-elements.git
-	branch = .
+	//branch = .
 [submodule "tripleo-quickstart"]
 	path = tripleo-quickstart
 	url = https://github.com/openstack/tripleo-quickstart.git
-	branch = .
+	//branch = .
 [submodule "tripleo-quickstart-extras"]
 	path = tripleo-quickstart-extras
 	url = https://github.com/openstack/tripleo-quickstart-extras.git
-	branch = .
+	//branch = .
 [submodule "tripleo-repos"]
 	path = tripleo-repos
 	url = https://github.com/openstack/tripleo-repos.git
-	branch = .
+	//branch = .
 [submodule "tripleo-specs"]
 	path = tripleo-specs
 	url = https://github.com/openstack/tripleo-specs.git
-	branch = .
+	//branch = .
 [submodule "tripleo-upgrade"]
 	path = tripleo-upgrade
 	url = https://github.com/openstack/tripleo-upgrade.git
-	branch = .
+	//branch = .
 [submodule "tripleo-validations"]
 	path = tripleo-validations
 	url = https://github.com/openstack/tripleo-validations.git
-	branch = .
+	//branch = .
 [submodule "trove"]
 	path = trove
 	url = https://github.com/openstack/trove.git
-	branch = .
+	//branch = .
 [submodule "trove-dashboard"]
 	path = trove-dashboard
 	url = https://github.com/openstack/trove-dashboard.git
-	branch = .
+	//branch = .
 [submodule "trove-specs"]
 	path = trove-specs
 	url = https://github.com/openstack/trove-specs.git
-	branch = .
+	//branch = .
 [submodule "trove-tempest-plugin"]
 	path = trove-tempest-plugin
 	url = https://github.com/openstack/trove-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "ui-cookiecutter"]
 	path = ui-cookiecutter
 	url = https://github.com/openstack/ui-cookiecutter.git
-	branch = .
+	//branch = .
 [submodule "validations-common"]
 	path = validations-common
 	url = https://github.com/openstack/validations-common.git
-	branch = .
+	//branch = .
 [submodule "validations-libs"]
 	path = validations-libs
 	url = https://github.com/openstack/validations-libs.git
-	branch = .
+	//branch = .
 [submodule "virtualbmc"]
 	path = virtualbmc
 	url = https://github.com/openstack/virtualbmc.git
-	branch = .
+	//branch = .
 [submodule "vitrage"]
 	path = vitrage
 	url = https://github.com/openstack/vitrage.git
-	branch = .
+	//branch = .
 [submodule "vitrage-dashboard"]
 	path = vitrage-dashboard
 	url = https://github.com/openstack/vitrage-dashboard.git
-	branch = .
+	//branch = .
 [submodule "vitrage-specs"]
 	path = vitrage-specs
 	url = https://github.com/openstack/vitrage-specs.git
-	branch = .
+	//branch = .
 [submodule "vitrage-tempest-plugin"]
 	path = vitrage-tempest-plugin
 	url = https://github.com/openstack/vitrage-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "watcher"]
 	path = watcher
 	url = https://github.com/openstack/watcher.git
-	branch = .
+	//branch = .
 [submodule "watcher-dashboard"]
 	path = watcher-dashboard
 	url = https://github.com/openstack/watcher-dashboard.git
-	branch = .
+	//branch = .
 [submodule "watcher-specs"]
 	path = watcher-specs
 	url = https://github.com/openstack/watcher-specs.git
-	branch = .
+	//branch = .
 [submodule "watcher-tempest-plugin"]
 	path = watcher-tempest-plugin
 	url = https://github.com/openstack/watcher-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "whereto"]
 	path = whereto
 	url = https://github.com/openstack/whereto.git
-	branch = .
+	//branch = .
 [submodule "whitebox-tempest-plugin"]
 	path = whitebox-tempest-plugin
 	url = https://github.com/openstack/whitebox-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular"]
 	path = xstatic-angular
 	url = https://github.com/openstack/xstatic-angular.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-bootstrap"]
 	path = xstatic-angular-bootstrap
 	url = https://github.com/openstack/xstatic-angular-bootstrap.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-gettext"]
 	path = xstatic-angular-gettext
 	url = https://github.com/openstack/xstatic-angular-gettext.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-lrdragndrop"]
 	path = xstatic-angular-lrdragndrop
 	url = https://github.com/openstack/xstatic-angular-lrdragndrop.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-material"]
 	path = xstatic-angular-material
 	url = https://github.com/openstack/xstatic-angular-material.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-notify"]
 	path = xstatic-angular-notify
 	url = https://github.com/openstack/xstatic-angular-notify.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-smart-table"]
 	path = xstatic-angular-smart-table
 	url = https://github.com/openstack/xstatic-angular-smart-table.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-uuid"]
 	path = xstatic-angular-uuid
 	url = https://github.com/openstack/xstatic-angular-uuid.git
-	branch = .
+	//branch = .
 [submodule "xstatic-angular-vis"]
 	path = xstatic-angular-vis
 	url = https://github.com/openstack/xstatic-angular-vis.git
-	branch = .
+	//branch = .
 [submodule "xstatic-bootstrap-datepicker"]
 	path = xstatic-bootstrap-datepicker
 	url = https://github.com/openstack/xstatic-bootstrap-datepicker.git
-	branch = .
+	//branch = .
 [submodule "xstatic-bootstrap-scss"]
 	path = xstatic-bootstrap-scss
 	url = https://github.com/openstack/xstatic-bootstrap-scss.git
-	branch = .
+	//branch = .
 [submodule "xstatic-bootswatch"]
 	path = xstatic-bootswatch
 	url = https://github.com/openstack/xstatic-bootswatch.git
-	branch = .
+	//branch = .
 [submodule "xstatic-d3"]
 	path = xstatic-d3
 	url = https://github.com/openstack/xstatic-d3.git
-	branch = .
+	//branch = .
 [submodule "xstatic-dagre"]
 	path = xstatic-dagre
 	url = https://github.com/openstack/xstatic-dagre.git
-	branch = .
+	//branch = .
 [submodule "xstatic-dagre-d3"]
 	path = xstatic-dagre-d3
 	url = https://github.com/openstack/xstatic-dagre-d3.git
-	branch = .
+	//branch = .
 [submodule "xstatic-filesaver"]
 	path = xstatic-filesaver
 	url = https://github.com/openstack/xstatic-filesaver.git
-	branch = .
+	//branch = .
 [submodule "xstatic-font-awesome"]
 	path = xstatic-font-awesome
 	url = https://github.com/openstack/xstatic-font-awesome.git
-	branch = .
+	//branch = .
 [submodule "xstatic-graphlib"]
 	path = xstatic-graphlib
 	url = https://github.com/openstack/xstatic-graphlib.git
-	branch = .
+	//branch = .
 [submodule "xstatic-hogan"]
 	path = xstatic-hogan
 	url = https://github.com/openstack/xstatic-hogan.git
-	branch = .
+	//branch = .
 [submodule "xstatic-jasmine"]
 	path = xstatic-jasmine
 	url = https://github.com/openstack/xstatic-jasmine.git
-	branch = .
+	//branch = .
 [submodule "xstatic-jquery-migrate"]
 	path = xstatic-jquery-migrate
 	url = https://github.com/openstack/xstatic-jquery-migrate.git
-	branch = .
+	//branch = .
 [submodule "xstatic-jquery.quicksearch"]
 	path = xstatic-jquery.quicksearch
 	url = https://github.com/openstack/xstatic-jquery.quicksearch.git
-	branch = .
+	//branch = .
 [submodule "xstatic-jquery.tablesorter"]
 	path = xstatic-jquery.tablesorter
 	url = https://github.com/openstack/xstatic-jquery.tablesorter.git
-	branch = .
+	//branch = .
 [submodule "xstatic-js-yaml"]
 	path = xstatic-js-yaml
 	url = https://github.com/openstack/xstatic-js-yaml.git
-	branch = .
+	//branch = .
 [submodule "xstatic-jsencrypt"]
 	path = xstatic-jsencrypt
 	url = https://github.com/openstack/xstatic-jsencrypt.git
-	branch = .
+	//branch = .
 [submodule "xstatic-json2yaml"]
 	path = xstatic-json2yaml
 	url = https://github.com/openstack/xstatic-json2yaml.git
-	branch = .
+	//branch = .
 [submodule "xstatic-lodash"]
 	path = xstatic-lodash
 	url = https://github.com/openstack/xstatic-lodash.git
-	branch = .
+	//branch = .
 [submodule "xstatic-magic-search"]
 	path = xstatic-magic-search
 	url = https://github.com/openstack/xstatic-magic-search.git
-	branch = .
+	//branch = .
 [submodule "xstatic-mdi"]
 	path = xstatic-mdi
 	url = https://github.com/openstack/xstatic-mdi.git
-	branch = .
+	//branch = .
 [submodule "xstatic-moment"]
 	path = xstatic-moment
 	url = https://github.com/openstack/xstatic-moment.git
-	branch = .
+	//branch = .
 [submodule "xstatic-moment-timezone"]
 	path = xstatic-moment-timezone
 	url = https://github.com/openstack/xstatic-moment-timezone.git
-	branch = .
+	//branch = .
 [submodule "xstatic-rickshaw"]
 	path = xstatic-rickshaw
 	url = https://github.com/openstack/xstatic-rickshaw.git
-	branch = .
+	//branch = .
 [submodule "xstatic-roboto-fontface"]
 	path = xstatic-roboto-fontface
 	url = https://github.com/openstack/xstatic-roboto-fontface.git
-	branch = .
+	//branch = .
 [submodule "xstatic-spin"]
 	path = xstatic-spin
 	url = https://github.com/openstack/xstatic-spin.git
-	branch = .
+	//branch = .
 [submodule "yaql"]
 	path = yaql
 	url = https://github.com/openstack/yaql.git
-	branch = .
+	//branch = .
 [submodule "zaqar"]
 	path = zaqar
 	url = https://github.com/openstack/zaqar.git
-	branch = .
+	//branch = .
 [submodule "zaqar-specs"]
 	path = zaqar-specs
 	url = https://github.com/openstack/zaqar-specs.git
-	branch = .
+	//branch = .
 [submodule "zaqar-tempest-plugin"]
 	path = zaqar-tempest-plugin
 	url = https://github.com/openstack/zaqar-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "zaqar-ui"]
 	path = zaqar-ui
 	url = https://github.com/openstack/zaqar-ui.git
-	branch = .
+	//branch = .
 [submodule "zun"]
 	path = zun
 	url = https://github.com/openstack/zun.git
-	branch = .
+	//branch = .
 [submodule "zun-tempest-plugin"]
 	path = zun-tempest-plugin
 	url = https://github.com/openstack/zun-tempest-plugin.git
-	branch = .
+	//branch = .
 [submodule "zun-ui"]
 	path = zun-ui
 	url = https://github.com/openstack/zun-ui.git
-	branch = .
+	//branch = .
